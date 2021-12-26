@@ -1,0 +1,13 @@
+server:
+  port: 8761
+
+# Spring Application ??? ?? ??
+spring:
+  application:
+    name: discoveryservice
+
+# service ? ????? ?? euraka ? ???? ??
+eureka:
+  client:
+    register-with-eureka: false
+    fetch-registry: false
