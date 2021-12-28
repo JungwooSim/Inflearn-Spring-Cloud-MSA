@@ -1,3 +1,5 @@
+mvn spring-boot:run
+
 mvn spring-boot:run -Dspring-boot.run.jvmArguments='-Dserver.port=9003'
 
 # 빌드된 파일 삭제
