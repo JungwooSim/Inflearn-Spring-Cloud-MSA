@@ -19,18 +19,17 @@ import java.util.ArrayList;
 import java.util.List;
 
 @RestController
-@RequestMapping("/user-service")
+@RequestMapping("/")
 public class UserController {
     private Environment env;
     private UserService userService;
-
-    @Autowired
     private Greeting greeting;
 
     @Autowired
-    public UserController(Environment env, UserService userService) {
+    public UserController(Environment env, UserService userService, Greeting greeting) {
         this.env = env;
         this.userService = userService;
+        this.greeting = greeting;
     }
 
     @GetMapping("/health_check")
