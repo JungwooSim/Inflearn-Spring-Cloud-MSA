@@ -8,5 +8,5 @@ spring:
     config:
       server:
         git:
-          uri: file:///Users/bigpenguin/project/Inflearn-Spring-Cloud-MSA
-          search-paths: local-repo
+          uri: file:///Users/bigpenguin/project/Cloud-config
+          search-paths: /Inflearn-Spring-Cloud_MSA/local-repo

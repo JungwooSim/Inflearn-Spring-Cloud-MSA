@@ -33,8 +33,12 @@ public class WebSecurity extends WebSecurityConfigurerAdapter {
 //                .hasIpAddress("127.0.0.1")
 //                .and()
 //                .addFilter(getAuthenticationFilter());
+
         http.authorizeRequests()
-                .antMatchers("/users/**").permitAll()
+                .antMatchers("/actuator/**").permitAll();
+
+        http.authorizeRequests()
+                .antMatchers("/**").permitAll()
                 .and()
                 .addFilter(getAuthenticationFilter());
         http.headers().frameOptions().disable();
