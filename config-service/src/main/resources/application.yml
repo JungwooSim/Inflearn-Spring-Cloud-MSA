@@ -1,0 +1,12 @@
+server:
+  port: 8888
+
+spring:
+  application:
+    name: config-service
+  cloud:
+    config:
+      server:
+        git:
+          uri: file:///Users/bigpenguin/project/Inflearn-Spring-Cloud-MSA
+          search-paths: local-repo
