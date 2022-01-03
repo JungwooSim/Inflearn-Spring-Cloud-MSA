@@ -8,5 +8,10 @@ spring:
     config:
       server:
         git:
+          # file access
           uri: file:///Users/bigpenguin/project/Cloud-config
           search-paths: /Inflearn-Spring-Cloud_MSA/local-repo
+          # git access
+#          uri: https://github.com/JungwooSim/Cloud-config
+#          username: # private
+#          password: # private
