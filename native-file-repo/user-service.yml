@@ -1,0 +1,8 @@
+token:
+  expiration_time: 86400000
+  secret: user_token_native_user_service
+
+gateway:
+  ip: 192.168.0.6
+
+#http://127.0.0.1:8888/user-service/native
