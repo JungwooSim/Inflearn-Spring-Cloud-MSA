@@ -1,2 +1,8 @@
 encrypt:
   key: asdasdasdasdasdasdasdasdasd123123123
+
+#encrypt:
+#  key-store:
+#    location: file://${user.home}/project/Inflearn-Spring-Cloud-MSA/keystore/apiEncryptionKey.jks
+#    password: 1q2w3e4r
+#    alias: apiEncryptionKey

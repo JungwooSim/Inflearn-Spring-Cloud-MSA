@@ -1,6 +1,6 @@
 token:
   expiration_time: 86400000
-  secret: user_token_native_ecommerce
+  secret: '{cipher}6321d7de9d990a2d7869aef1e786d13f854ec558ed4c776df08bf446a6870167'
 
 gateway:
   ip: 192.168.0.6
