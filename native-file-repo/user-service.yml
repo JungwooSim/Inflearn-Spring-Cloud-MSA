@@ -10,5 +10,7 @@ gateway:
 
 order_service:
   url: http://order-service/order-service/%s/orders
+  exception:
+    orders_is_empty: User's orders is empty.
 
 #http://127.0.0.1:8888/user-service/native
