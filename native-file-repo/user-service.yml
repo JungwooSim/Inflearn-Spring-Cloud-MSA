@@ -5,11 +5,10 @@ spring:
     username: sa
     password: '{cipher}6321d7de9d990a2d7869aef1e786d13f854ec558ed4c776df08bf446a6870167'
 
-token:
-  expiration_time: 86400000
-  secret: user_token_native_user_service_default
-
 gateway:
   ip: 192.168.0.6
+
+order_service:
+  url: http://order-service/order-service/%s/orders
 
 #http://127.0.0.1:8888/user-service/native
