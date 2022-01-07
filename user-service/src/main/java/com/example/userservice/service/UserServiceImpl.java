@@ -1,6 +1,7 @@
 package com.example.userservice.service;
 
 import com.example.userservice.client.OrderServiceClient;
+import com.example.userservice.config.Resilience4JConfig;
 import com.example.userservice.dto.UserDto;
 import com.example.userservice.error.FeignErrorDecoder;
 import com.example.userservice.jpa.UserEntity;
@@ -11,6 +12,8 @@ import lombok.extern.slf4j.Slf4j;
 import org.modelmapper.ModelMapper;
 import org.modelmapper.convention.MatchingStrategies;
 import org.springframework.beans.factory.annotation.Autowired;
+import org.springframework.cloud.client.circuitbreaker.CircuitBreaker;
+import org.springframework.cloud.client.circuitbreaker.CircuitBreakerFactory;
 import org.springframework.core.ParameterizedTypeReference;
 import org.springframework.core.env.Environment;
 import org.springframework.http.HttpMethod;
@@ -35,14 +38,20 @@ public class UserServiceImpl implements UserService {
     Environment env;
     RestTemplate restTemplate;
     OrderServiceClient orderServiceClient;
+    CircuitBreakerFactory circuitBreakerFactory;
 
-    @Autowired
-    public UserServiceImpl(UserRepository userRepository, BCryptPasswordEncoder bCryptPasswordEncoder, Environment env, RestTemplate restTemplate, OrderServiceClient orderServiceClient) {
+    public UserServiceImpl(UserRepository userRepository,
+                           BCryptPasswordEncoder bCryptPasswordEncoder,
+                           Environment env,
+                           RestTemplate restTemplate,
+                           OrderServiceClient orderServiceClient,
+                           CircuitBreakerFactory circuitBreakerFactory) {
         this.userRepository = userRepository;
         this.bCryptPasswordEncoder = bCryptPasswordEncoder;
         this.env = env;
         this.restTemplate = restTemplate;
         this.orderServiceClient = orderServiceClient;
+        this.circuitBreakerFactory = circuitBreakerFactory;
     }
 
     @Override
@@ -83,7 +92,15 @@ public class UserServiceImpl implements UserService {
 //        } catch (FeignException ex) {
 //            log.error(ex.getMessage());
 //        }
-        List<ResponseOrder> orderList = orderServiceClient.getOrders(userId);
+
+        // Error Decoder
+//        List<ResponseOrder> orderList = orderServiceClient.getOrders(userId);
+        log.info("Before call orders microservice");
+        CircuitBreaker circuitBreaker = circuitBreakerFactory.create("circuitbreaker");
+        List<ResponseOrder> orderList = circuitBreaker.run(() -> orderServiceClient.getOrders(userId),
+                throwable -> new ArrayList<>()
+        );
+        log.info("After called orders microservice");
         userDto.setOrders(orderList);
 
         return userDto;

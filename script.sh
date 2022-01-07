@@ -38,4 +38,11 @@ keystore % keytool -import -alias trustServer -file trustServer.cer -keysotre pu
 # kafka Connect 실행
 ./kafka_utils/confluent-6.1.0/bin/connect-distributed ./etc/kafka/connect-distributed.properties
 
+# zipkin 실행
+java -jar ./zipkin/zipkin.jar
 
+# prometheus 실행
+./prometheus-2.32.1.darwin-amd64/prometheus --config.file=prometheus.yml
+
+# grafana 실행
+./grafana-8.3.3/bin/grafana-server

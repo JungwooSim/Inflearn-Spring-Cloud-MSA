@@ -1,730 +1,347 @@
-[2022-01-07 00:00:03,588] INFO WorkerSourceTask{id=my-source-connect-0} Committing offsets (org.apache.kafka.connect.runtime.WorkerSourceTask:478)
-[2022-01-07 00:00:03,595] INFO WorkerSourceTask{id=my-source-connect-0} flushing 0 outstanding messages for offset commit (org.apache.kafka.connect.runtime.WorkerSourceTask:495)
-[2022-01-07 00:00:13,599] INFO WorkerSourceTask{id=my-source-connect-0} Committing offsets (org.apache.kafka.connect.runtime.WorkerSourceTask:478)
-[2022-01-07 00:00:13,600] INFO WorkerSourceTask{id=my-source-connect-0} flushing 0 outstanding messages for offset commit (org.apache.kafka.connect.runtime.WorkerSourceTask:495)
-[2022-01-07 00:00:23,603] INFO WorkerSourceTask{id=my-source-connect-0} Committing offsets (org.apache.kafka.connect.runtime.WorkerSourceTask:478)
-[2022-01-07 00:00:23,604] INFO WorkerSourceTask{id=my-source-connect-0} flushing 0 outstanding messages for offset commit (org.apache.kafka.connect.runtime.WorkerSourceTask:495)
-[2022-01-07 00:00:33,609] INFO WorkerSourceTask{id=my-source-connect-0} Committing offsets (org.apache.kafka.connect.runtime.WorkerSourceTask:478)
-[2022-01-07 00:00:33,609] INFO WorkerSourceTask{id=my-source-connect-0} flushing 0 outstanding messages for offset commit (org.apache.kafka.connect.runtime.WorkerSourceTask:495)
-[2022-01-07 00:00:43,615] INFO WorkerSourceTask{id=my-source-connect-0} Committing offsets (org.apache.kafka.connect.runtime.WorkerSourceTask:478)
-[2022-01-07 00:00:43,615] INFO WorkerSourceTask{id=my-source-connect-0} flushing 0 outstanding messages for offset commit (org.apache.kafka.connect.runtime.WorkerSourceTask:495)
-[2022-01-07 00:00:53,619] INFO WorkerSourceTask{id=my-source-connect-0} Committing offsets (org.apache.kafka.connect.runtime.WorkerSourceTask:478)
-[2022-01-07 00:00:53,621] INFO WorkerSourceTask{id=my-source-connect-0} flushing 0 outstanding messages for offset commit (org.apache.kafka.connect.runtime.WorkerSourceTask:495)
-[2022-01-07 00:01:03,623] INFO WorkerSourceTask{id=my-source-connect-0} Committing offsets (org.apache.kafka.connect.runtime.WorkerSourceTask:478)
-[2022-01-07 00:01:03,624] INFO WorkerSourceTask{id=my-source-connect-0} flushing 0 outstanding messages for offset commit (org.apache.kafka.connect.runtime.WorkerSourceTask:495)
-[2022-01-07 00:01:13,628] INFO WorkerSourceTask{id=my-source-connect-0} Committing offsets (org.apache.kafka.connect.runtime.WorkerSourceTask:478)
-[2022-01-07 00:01:13,629] INFO WorkerSourceTask{id=my-source-connect-0} flushing 0 outstanding messages for offset commit (org.apache.kafka.connect.runtime.WorkerSourceTask:495)
-[2022-01-07 00:01:23,630] INFO WorkerSourceTask{id=my-source-connect-0} Committing offsets (org.apache.kafka.connect.runtime.WorkerSourceTask:478)
-[2022-01-07 00:01:23,630] INFO WorkerSourceTask{id=my-source-connect-0} flushing 0 outstanding messages for offset commit (org.apache.kafka.connect.runtime.WorkerSourceTask:495)
-[2022-01-07 00:01:33,631] INFO WorkerSourceTask{id=my-source-connect-0} Committing offsets (org.apache.kafka.connect.runtime.WorkerSourceTask:478)
-[2022-01-07 00:01:33,632] INFO WorkerSourceTask{id=my-source-connect-0} flushing 0 outstanding messages for offset commit (org.apache.kafka.connect.runtime.WorkerSourceTask:495)
-[2022-01-07 00:01:43,637] INFO WorkerSourceTask{id=my-source-connect-0} Committing offsets (org.apache.kafka.connect.runtime.WorkerSourceTask:478)
-[2022-01-07 00:01:43,638] INFO WorkerSourceTask{id=my-source-connect-0} flushing 0 outstanding messages for offset commit (org.apache.kafka.connect.runtime.WorkerSourceTask:495)
-[2022-01-07 00:01:53,641] INFO WorkerSourceTask{id=my-source-connect-0} Committing offsets (org.apache.kafka.connect.runtime.WorkerSourceTask:478)
-[2022-01-07 00:01:53,641] INFO WorkerSourceTask{id=my-source-connect-0} flushing 0 outstanding messages for offset commit (org.apache.kafka.connect.runtime.WorkerSourceTask:495)
-[2022-01-07 00:02:03,644] INFO WorkerSourceTask{id=my-source-connect-0} Committing offsets (org.apache.kafka.connect.runtime.WorkerSourceTask:478)
-[2022-01-07 00:02:03,645] INFO WorkerSourceTask{id=my-source-connect-0} flushing 0 outstanding messages for offset commit (org.apache.kafka.connect.runtime.WorkerSourceTask:495)
-[2022-01-07 00:02:13,645] INFO WorkerSourceTask{id=my-source-connect-0} Committing offsets (org.apache.kafka.connect.runtime.WorkerSourceTask:478)
-[2022-01-07 00:02:13,645] INFO WorkerSourceTask{id=my-source-connect-0} flushing 0 outstanding messages for offset commit (org.apache.kafka.connect.runtime.WorkerSourceTask:495)
-[2022-01-07 00:02:23,651] INFO WorkerSourceTask{id=my-source-connect-0} Committing offsets (org.apache.kafka.connect.runtime.WorkerSourceTask:478)
-[2022-01-07 00:02:23,651] INFO WorkerSourceTask{id=my-source-connect-0} flushing 0 outstanding messages for offset commit (org.apache.kafka.connect.runtime.WorkerSourceTask:495)
-[2022-01-07 00:02:33,654] INFO WorkerSourceTask{id=my-source-connect-0} Committing offsets (org.apache.kafka.connect.runtime.WorkerSourceTask:478)
-[2022-01-07 00:02:33,654] INFO WorkerSourceTask{id=my-source-connect-0} flushing 0 outstanding messages for offset commit (org.apache.kafka.connect.runtime.WorkerSourceTask:495)
-[2022-01-07 00:02:43,658] INFO WorkerSourceTask{id=my-source-connect-0} Committing offsets (org.apache.kafka.connect.runtime.WorkerSourceTask:478)
-[2022-01-07 00:02:43,658] INFO WorkerSourceTask{id=my-source-connect-0} flushing 0 outstanding messages for offset commit (org.apache.kafka.connect.runtime.WorkerSourceTask:495)
-[2022-01-07 00:02:53,659] INFO WorkerSourceTask{id=my-source-connect-0} Committing offsets (org.apache.kafka.connect.runtime.WorkerSourceTask:478)
-[2022-01-07 00:02:53,659] INFO WorkerSourceTask{id=my-source-connect-0} flushing 0 outstanding messages for offset commit (org.apache.kafka.connect.runtime.WorkerSourceTask:495)
-[2022-01-07 00:03:03,663] INFO WorkerSourceTask{id=my-source-connect-0} Committing offsets (org.apache.kafka.connect.runtime.WorkerSourceTask:478)
-[2022-01-07 00:03:03,664] INFO WorkerSourceTask{id=my-source-connect-0} flushing 0 outstanding messages for offset commit (org.apache.kafka.connect.runtime.WorkerSourceTask:495)
-[2022-01-07 00:03:13,668] INFO WorkerSourceTask{id=my-source-connect-0} Committing offsets (org.apache.kafka.connect.runtime.WorkerSourceTask:478)
-[2022-01-07 00:03:13,668] INFO WorkerSourceTask{id=my-source-connect-0} flushing 0 outstanding messages for offset commit (org.apache.kafka.connect.runtime.WorkerSourceTask:495)
-[2022-01-07 00:03:23,673] INFO WorkerSourceTask{id=my-source-connect-0} Committing offsets (org.apache.kafka.connect.runtime.WorkerSourceTask:478)
-[2022-01-07 00:03:23,673] INFO WorkerSourceTask{id=my-source-connect-0} flushing 0 outstanding messages for offset commit (org.apache.kafka.connect.runtime.WorkerSourceTask:495)
-[2022-01-07 00:03:33,676] INFO WorkerSourceTask{id=my-source-connect-0} Committing offsets (org.apache.kafka.connect.runtime.WorkerSourceTask:478)
-[2022-01-07 00:03:33,676] INFO WorkerSourceTask{id=my-source-connect-0} flushing 0 outstanding messages for offset commit (org.apache.kafka.connect.runtime.WorkerSourceTask:495)
-[2022-01-07 00:03:43,602] INFO WorkerSourceTask{id=my-source-connect-0} Committing offsets (org.apache.kafka.connect.runtime.WorkerSourceTask:478)
-[2022-01-07 00:03:43,603] INFO WorkerSourceTask{id=my-source-connect-0} flushing 0 outstanding messages for offset commit (org.apache.kafka.connect.runtime.WorkerSourceTask:495)
-[2022-01-07 00:03:53,607] INFO WorkerSourceTask{id=my-source-connect-0} Committing offsets (org.apache.kafka.connect.runtime.WorkerSourceTask:478)
-[2022-01-07 00:03:53,607] INFO WorkerSourceTask{id=my-source-connect-0} flushing 0 outstanding messages for offset commit (org.apache.kafka.connect.runtime.WorkerSourceTask:495)
-[2022-01-07 00:04:03,612] INFO WorkerSourceTask{id=my-source-connect-0} Committing offsets (org.apache.kafka.connect.runtime.WorkerSourceTask:478)
-[2022-01-07 00:04:03,613] INFO WorkerSourceTask{id=my-source-connect-0} flushing 0 outstanding messages for offset commit (org.apache.kafka.connect.runtime.WorkerSourceTask:495)
-[2022-01-07 00:04:13,618] INFO WorkerSourceTask{id=my-source-connect-0} Committing offsets (org.apache.kafka.connect.runtime.WorkerSourceTask:478)
-[2022-01-07 00:04:13,618] INFO WorkerSourceTask{id=my-source-connect-0} flushing 0 outstanding messages for offset commit (org.apache.kafka.connect.runtime.WorkerSourceTask:495)
-[2022-01-07 00:04:23,622] INFO WorkerSourceTask{id=my-source-connect-0} Committing offsets (org.apache.kafka.connect.runtime.WorkerSourceTask:478)
-[2022-01-07 00:04:23,623] INFO WorkerSourceTask{id=my-source-connect-0} flushing 0 outstanding messages for offset commit (org.apache.kafka.connect.runtime.WorkerSourceTask:495)
-[2022-01-07 00:04:33,626] INFO WorkerSourceTask{id=my-source-connect-0} Committing offsets (org.apache.kafka.connect.runtime.WorkerSourceTask:478)
-[2022-01-07 00:04:33,627] INFO WorkerSourceTask{id=my-source-connect-0} flushing 0 outstanding messages for offset commit (org.apache.kafka.connect.runtime.WorkerSourceTask:495)
-[2022-01-07 00:04:43,630] INFO WorkerSourceTask{id=my-source-connect-0} Committing offsets (org.apache.kafka.connect.runtime.WorkerSourceTask:478)
-[2022-01-07 00:04:43,630] INFO WorkerSourceTask{id=my-source-connect-0} flushing 0 outstanding messages for offset commit (org.apache.kafka.connect.runtime.WorkerSourceTask:495)
-[2022-01-07 00:04:53,634] INFO WorkerSourceTask{id=my-source-connect-0} Committing offsets (org.apache.kafka.connect.runtime.WorkerSourceTask:478)
-[2022-01-07 00:04:53,635] INFO WorkerSourceTask{id=my-source-connect-0} flushing 0 outstanding messages for offset commit (org.apache.kafka.connect.runtime.WorkerSourceTask:495)
-[2022-01-07 00:05:03,638] INFO WorkerSourceTask{id=my-source-connect-0} Committing offsets (org.apache.kafka.connect.runtime.WorkerSourceTask:478)
-[2022-01-07 00:05:03,638] INFO WorkerSourceTask{id=my-source-connect-0} flushing 0 outstanding messages for offset commit (org.apache.kafka.connect.runtime.WorkerSourceTask:495)
-[2022-01-07 00:05:13,642] INFO WorkerSourceTask{id=my-source-connect-0} Committing offsets (org.apache.kafka.connect.runtime.WorkerSourceTask:478)
-[2022-01-07 00:05:13,643] INFO WorkerSourceTask{id=my-source-connect-0} flushing 0 outstanding messages for offset commit (org.apache.kafka.connect.runtime.WorkerSourceTask:495)
-[2022-01-07 00:05:23,648] INFO WorkerSourceTask{id=my-source-connect-0} Committing offsets (org.apache.kafka.connect.runtime.WorkerSourceTask:478)
-[2022-01-07 00:05:23,648] INFO WorkerSourceTask{id=my-source-connect-0} flushing 0 outstanding messages for offset commit (org.apache.kafka.connect.runtime.WorkerSourceTask:495)
-[2022-01-07 00:05:33,650] INFO WorkerSourceTask{id=my-source-connect-0} Committing offsets (org.apache.kafka.connect.runtime.WorkerSourceTask:478)
-[2022-01-07 00:05:33,651] INFO WorkerSourceTask{id=my-source-connect-0} flushing 0 outstanding messages for offset commit (org.apache.kafka.connect.runtime.WorkerSourceTask:495)
-[2022-01-07 00:05:43,656] INFO WorkerSourceTask{id=my-source-connect-0} Committing offsets (org.apache.kafka.connect.runtime.WorkerSourceTask:478)
-[2022-01-07 00:05:43,656] INFO WorkerSourceTask{id=my-source-connect-0} flushing 0 outstanding messages for offset commit (org.apache.kafka.connect.runtime.WorkerSourceTask:495)
-[2022-01-07 00:05:53,660] INFO WorkerSourceTask{id=my-source-connect-0} Committing offsets (org.apache.kafka.connect.runtime.WorkerSourceTask:478)
-[2022-01-07 00:05:53,661] INFO WorkerSourceTask{id=my-source-connect-0} flushing 0 outstanding messages for offset commit (org.apache.kafka.connect.runtime.WorkerSourceTask:495)
-[2022-01-07 00:06:03,665] INFO WorkerSourceTask{id=my-source-connect-0} Committing offsets (org.apache.kafka.connect.runtime.WorkerSourceTask:478)
-[2022-01-07 00:06:03,665] INFO WorkerSourceTask{id=my-source-connect-0} flushing 0 outstanding messages for offset commit (org.apache.kafka.connect.runtime.WorkerSourceTask:495)
-[2022-01-07 00:06:13,670] INFO WorkerSourceTask{id=my-source-connect-0} Committing offsets (org.apache.kafka.connect.runtime.WorkerSourceTask:478)
-[2022-01-07 00:06:13,670] INFO WorkerSourceTask{id=my-source-connect-0} flushing 0 outstanding messages for offset commit (org.apache.kafka.connect.runtime.WorkerSourceTask:495)
-[2022-01-07 00:06:23,674] INFO WorkerSourceTask{id=my-source-connect-0} Committing offsets (org.apache.kafka.connect.runtime.WorkerSourceTask:478)
-[2022-01-07 00:06:23,675] INFO WorkerSourceTask{id=my-source-connect-0} flushing 0 outstanding messages for offset commit (org.apache.kafka.connect.runtime.WorkerSourceTask:495)
-[2022-01-07 00:06:33,680] INFO WorkerSourceTask{id=my-source-connect-0} Committing offsets (org.apache.kafka.connect.runtime.WorkerSourceTask:478)
-[2022-01-07 00:06:33,681] INFO WorkerSourceTask{id=my-source-connect-0} flushing 0 outstanding messages for offset commit (org.apache.kafka.connect.runtime.WorkerSourceTask:495)
-[2022-01-07 00:06:43,685] INFO WorkerSourceTask{id=my-source-connect-0} Committing offsets (org.apache.kafka.connect.runtime.WorkerSourceTask:478)
-[2022-01-07 00:06:43,685] INFO WorkerSourceTask{id=my-source-connect-0} flushing 0 outstanding messages for offset commit (org.apache.kafka.connect.runtime.WorkerSourceTask:495)
-[2022-01-07 00:06:53,690] INFO WorkerSourceTask{id=my-source-connect-0} Committing offsets (org.apache.kafka.connect.runtime.WorkerSourceTask:478)
-[2022-01-07 00:06:53,690] INFO WorkerSourceTask{id=my-source-connect-0} flushing 0 outstanding messages for offset commit (org.apache.kafka.connect.runtime.WorkerSourceTask:495)
-[2022-01-07 00:07:03,692] INFO WorkerSourceTask{id=my-source-connect-0} Committing offsets (org.apache.kafka.connect.runtime.WorkerSourceTask:478)
-[2022-01-07 00:07:03,692] INFO WorkerSourceTask{id=my-source-connect-0} flushing 0 outstanding messages for offset commit (org.apache.kafka.connect.runtime.WorkerSourceTask:495)
-[2022-01-07 00:07:13,695] INFO WorkerSourceTask{id=my-source-connect-0} Committing offsets (org.apache.kafka.connect.runtime.WorkerSourceTask:478)
-[2022-01-07 00:07:13,697] INFO WorkerSourceTask{id=my-source-connect-0} flushing 0 outstanding messages for offset commit (org.apache.kafka.connect.runtime.WorkerSourceTask:495)
-[2022-01-07 00:07:23,702] INFO WorkerSourceTask{id=my-source-connect-0} Committing offsets (org.apache.kafka.connect.runtime.WorkerSourceTask:478)
-[2022-01-07 00:07:23,702] INFO WorkerSourceTask{id=my-source-connect-0} flushing 0 outstanding messages for offset commit (org.apache.kafka.connect.runtime.WorkerSourceTask:495)
-[2022-01-07 00:07:33,707] INFO WorkerSourceTask{id=my-source-connect-0} Committing offsets (org.apache.kafka.connect.runtime.WorkerSourceTask:478)
-[2022-01-07 00:07:33,708] INFO WorkerSourceTask{id=my-source-connect-0} flushing 0 outstanding messages for offset commit (org.apache.kafka.connect.runtime.WorkerSourceTask:495)
-[2022-01-07 00:07:43,710] INFO WorkerSourceTask{id=my-source-connect-0} Committing offsets (org.apache.kafka.connect.runtime.WorkerSourceTask:478)
-[2022-01-07 00:07:43,711] INFO WorkerSourceTask{id=my-source-connect-0} flushing 0 outstanding messages for offset commit (org.apache.kafka.connect.runtime.WorkerSourceTask:495)
-[2022-01-07 00:07:53,716] INFO WorkerSourceTask{id=my-source-connect-0} Committing offsets (org.apache.kafka.connect.runtime.WorkerSourceTask:478)
-[2022-01-07 00:07:53,716] INFO WorkerSourceTask{id=my-source-connect-0} flushing 0 outstanding messages for offset commit (org.apache.kafka.connect.runtime.WorkerSourceTask:495)
-[2022-01-07 00:08:03,720] INFO WorkerSourceTask{id=my-source-connect-0} Committing offsets (org.apache.kafka.connect.runtime.WorkerSourceTask:478)
-[2022-01-07 00:08:03,720] INFO WorkerSourceTask{id=my-source-connect-0} flushing 0 outstanding messages for offset commit (org.apache.kafka.connect.runtime.WorkerSourceTask:495)
-[2022-01-07 00:08:13,724] INFO WorkerSourceTask{id=my-source-connect-0} Committing offsets (org.apache.kafka.connect.runtime.WorkerSourceTask:478)
-[2022-01-07 00:08:13,725] INFO WorkerSourceTask{id=my-source-connect-0} flushing 0 outstanding messages for offset commit (org.apache.kafka.connect.runtime.WorkerSourceTask:495)
-[2022-01-07 00:08:23,729] INFO WorkerSourceTask{id=my-source-connect-0} Committing offsets (org.apache.kafka.connect.runtime.WorkerSourceTask:478)
-[2022-01-07 00:08:23,730] INFO WorkerSourceTask{id=my-source-connect-0} flushing 0 outstanding messages for offset commit (org.apache.kafka.connect.runtime.WorkerSourceTask:495)
-[2022-01-07 00:08:33,734] INFO WorkerSourceTask{id=my-source-connect-0} Committing offsets (org.apache.kafka.connect.runtime.WorkerSourceTask:478)
-[2022-01-07 00:08:33,736] INFO WorkerSourceTask{id=my-source-connect-0} flushing 0 outstanding messages for offset commit (org.apache.kafka.connect.runtime.WorkerSourceTask:495)
-[2022-01-07 00:08:43,740] INFO WorkerSourceTask{id=my-source-connect-0} Committing offsets (org.apache.kafka.connect.runtime.WorkerSourceTask:478)
-[2022-01-07 00:08:43,741] INFO WorkerSourceTask{id=my-source-connect-0} flushing 0 outstanding messages for offset commit (org.apache.kafka.connect.runtime.WorkerSourceTask:495)
-[2022-01-07 00:08:53,744] INFO WorkerSourceTask{id=my-source-connect-0} Committing offsets (org.apache.kafka.connect.runtime.WorkerSourceTask:478)
-[2022-01-07 00:08:53,745] INFO WorkerSourceTask{id=my-source-connect-0} flushing 0 outstanding messages for offset commit (org.apache.kafka.connect.runtime.WorkerSourceTask:495)
-[2022-01-07 00:09:03,750] INFO WorkerSourceTask{id=my-source-connect-0} Committing offsets (org.apache.kafka.connect.runtime.WorkerSourceTask:478)
-[2022-01-07 00:09:03,751] INFO WorkerSourceTask{id=my-source-connect-0} flushing 0 outstanding messages for offset commit (org.apache.kafka.connect.runtime.WorkerSourceTask:495)
-[2022-01-07 00:09:13,756] INFO WorkerSourceTask{id=my-source-connect-0} Committing offsets (org.apache.kafka.connect.runtime.WorkerSourceTask:478)
-[2022-01-07 00:09:13,756] INFO WorkerSourceTask{id=my-source-connect-0} flushing 0 outstanding messages for offset commit (org.apache.kafka.connect.runtime.WorkerSourceTask:495)
-[2022-01-07 00:09:23,759] INFO WorkerSourceTask{id=my-source-connect-0} Committing offsets (org.apache.kafka.connect.runtime.WorkerSourceTask:478)
-[2022-01-07 00:09:23,760] INFO WorkerSourceTask{id=my-source-connect-0} flushing 0 outstanding messages for offset commit (org.apache.kafka.connect.runtime.WorkerSourceTask:495)
-[2022-01-07 00:09:33,763] INFO WorkerSourceTask{id=my-source-connect-0} Committing offsets (org.apache.kafka.connect.runtime.WorkerSourceTask:478)
-[2022-01-07 00:09:33,764] INFO WorkerSourceTask{id=my-source-connect-0} flushing 0 outstanding messages for offset commit (org.apache.kafka.connect.runtime.WorkerSourceTask:495)
-[2022-01-07 00:09:43,769] INFO WorkerSourceTask{id=my-source-connect-0} Committing offsets (org.apache.kafka.connect.runtime.WorkerSourceTask:478)
-[2022-01-07 00:09:43,769] INFO WorkerSourceTask{id=my-source-connect-0} flushing 0 outstanding messages for offset commit (org.apache.kafka.connect.runtime.WorkerSourceTask:495)
-[2022-01-07 00:09:53,773] INFO WorkerSourceTask{id=my-source-connect-0} Committing offsets (org.apache.kafka.connect.runtime.WorkerSourceTask:478)
-[2022-01-07 00:09:53,773] INFO WorkerSourceTask{id=my-source-connect-0} flushing 0 outstanding messages for offset commit (org.apache.kafka.connect.runtime.WorkerSourceTask:495)
-[2022-01-07 00:10:03,777] INFO WorkerSourceTask{id=my-source-connect-0} Committing offsets (org.apache.kafka.connect.runtime.WorkerSourceTask:478)
-[2022-01-07 00:10:03,777] INFO WorkerSourceTask{id=my-source-connect-0} flushing 0 outstanding messages for offset commit (org.apache.kafka.connect.runtime.WorkerSourceTask:495)
-[2022-01-07 00:10:13,782] INFO WorkerSourceTask{id=my-source-connect-0} Committing offsets (org.apache.kafka.connect.runtime.WorkerSourceTask:478)
-[2022-01-07 00:10:13,783] INFO WorkerSourceTask{id=my-source-connect-0} flushing 0 outstanding messages for offset commit (org.apache.kafka.connect.runtime.WorkerSourceTask:495)
-[2022-01-07 00:10:23,786] INFO WorkerSourceTask{id=my-source-connect-0} Committing offsets (org.apache.kafka.connect.runtime.WorkerSourceTask:478)
-[2022-01-07 00:10:23,786] INFO WorkerSourceTask{id=my-source-connect-0} flushing 0 outstanding messages for offset commit (org.apache.kafka.connect.runtime.WorkerSourceTask:495)
-[2022-01-07 00:10:33,790] INFO WorkerSourceTask{id=my-source-connect-0} Committing offsets (org.apache.kafka.connect.runtime.WorkerSourceTask:478)
-[2022-01-07 00:10:33,791] INFO WorkerSourceTask{id=my-source-connect-0} flushing 0 outstanding messages for offset commit (org.apache.kafka.connect.runtime.WorkerSourceTask:495)
-[2022-01-07 00:10:43,792] INFO WorkerSourceTask{id=my-source-connect-0} Committing offsets (org.apache.kafka.connect.runtime.WorkerSourceTask:478)
-[2022-01-07 00:10:43,793] INFO WorkerSourceTask{id=my-source-connect-0} flushing 0 outstanding messages for offset commit (org.apache.kafka.connect.runtime.WorkerSourceTask:495)
-[2022-01-07 00:10:53,795] INFO WorkerSourceTask{id=my-source-connect-0} Committing offsets (org.apache.kafka.connect.runtime.WorkerSourceTask:478)
-[2022-01-07 00:10:53,796] INFO WorkerSourceTask{id=my-source-connect-0} flushing 0 outstanding messages for offset commit (org.apache.kafka.connect.runtime.WorkerSourceTask:495)
-[2022-01-07 00:11:03,800] INFO WorkerSourceTask{id=my-source-connect-0} Committing offsets (org.apache.kafka.connect.runtime.WorkerSourceTask:478)
-[2022-01-07 00:11:03,801] INFO WorkerSourceTask{id=my-source-connect-0} flushing 0 outstanding messages for offset commit (org.apache.kafka.connect.runtime.WorkerSourceTask:495)
-[2022-01-07 00:11:13,803] INFO WorkerSourceTask{id=my-source-connect-0} Committing offsets (org.apache.kafka.connect.runtime.WorkerSourceTask:478)
-[2022-01-07 00:11:13,803] INFO WorkerSourceTask{id=my-source-connect-0} flushing 0 outstanding messages for offset commit (org.apache.kafka.connect.runtime.WorkerSourceTask:495)
-[2022-01-07 00:11:23,807] INFO WorkerSourceTask{id=my-source-connect-0} Committing offsets (org.apache.kafka.connect.runtime.WorkerSourceTask:478)
-[2022-01-07 00:11:23,808] INFO WorkerSourceTask{id=my-source-connect-0} flushing 0 outstanding messages for offset commit (org.apache.kafka.connect.runtime.WorkerSourceTask:495)
-[2022-01-07 00:11:33,813] INFO WorkerSourceTask{id=my-source-connect-0} Committing offsets (org.apache.kafka.connect.runtime.WorkerSourceTask:478)
-[2022-01-07 00:11:33,813] INFO WorkerSourceTask{id=my-source-connect-0} flushing 0 outstanding messages for offset commit (org.apache.kafka.connect.runtime.WorkerSourceTask:495)
-[2022-01-07 00:11:43,817] INFO WorkerSourceTask{id=my-source-connect-0} Committing offsets (org.apache.kafka.connect.runtime.WorkerSourceTask:478)
-[2022-01-07 00:11:43,819] INFO WorkerSourceTask{id=my-source-connect-0} flushing 0 outstanding messages for offset commit (org.apache.kafka.connect.runtime.WorkerSourceTask:495)
-[2022-01-07 00:11:53,824] INFO WorkerSourceTask{id=my-source-connect-0} Committing offsets (org.apache.kafka.connect.runtime.WorkerSourceTask:478)
-[2022-01-07 00:11:53,824] INFO WorkerSourceTask{id=my-source-connect-0} flushing 0 outstanding messages for offset commit (org.apache.kafka.connect.runtime.WorkerSourceTask:495)
-[2022-01-07 00:12:03,829] INFO WorkerSourceTask{id=my-source-connect-0} Committing offsets (org.apache.kafka.connect.runtime.WorkerSourceTask:478)
-[2022-01-07 00:12:03,830] INFO WorkerSourceTask{id=my-source-connect-0} flushing 0 outstanding messages for offset commit (org.apache.kafka.connect.runtime.WorkerSourceTask:495)
-[2022-01-07 00:12:13,834] INFO WorkerSourceTask{id=my-source-connect-0} Committing offsets (org.apache.kafka.connect.runtime.WorkerSourceTask:478)
-[2022-01-07 00:12:13,834] INFO WorkerSourceTask{id=my-source-connect-0} flushing 0 outstanding messages for offset commit (org.apache.kafka.connect.runtime.WorkerSourceTask:495)
-[2022-01-07 00:12:23,838] INFO WorkerSourceTask{id=my-source-connect-0} Committing offsets (org.apache.kafka.connect.runtime.WorkerSourceTask:478)
-[2022-01-07 00:12:23,839] INFO WorkerSourceTask{id=my-source-connect-0} flushing 0 outstanding messages for offset commit (org.apache.kafka.connect.runtime.WorkerSourceTask:495)
-[2022-01-07 00:12:33,841] INFO WorkerSourceTask{id=my-source-connect-0} Committing offsets (org.apache.kafka.connect.runtime.WorkerSourceTask:478)
-[2022-01-07 00:12:33,841] INFO WorkerSourceTask{id=my-source-connect-0} flushing 0 outstanding messages for offset commit (org.apache.kafka.connect.runtime.WorkerSourceTask:495)
-[2022-01-07 00:12:43,846] INFO WorkerSourceTask{id=my-source-connect-0} Committing offsets (org.apache.kafka.connect.runtime.WorkerSourceTask:478)
-[2022-01-07 00:12:43,847] INFO WorkerSourceTask{id=my-source-connect-0} flushing 0 outstanding messages for offset commit (org.apache.kafka.connect.runtime.WorkerSourceTask:495)
-[2022-01-07 00:12:53,851] INFO WorkerSourceTask{id=my-source-connect-0} Committing offsets (org.apache.kafka.connect.runtime.WorkerSourceTask:478)
-[2022-01-07 00:12:53,852] INFO WorkerSourceTask{id=my-source-connect-0} flushing 0 outstanding messages for offset commit (org.apache.kafka.connect.runtime.WorkerSourceTask:495)
-[2022-01-07 00:13:03,856] INFO WorkerSourceTask{id=my-source-connect-0} Committing offsets (org.apache.kafka.connect.runtime.WorkerSourceTask:478)
-[2022-01-07 00:13:03,857] INFO WorkerSourceTask{id=my-source-connect-0} flushing 0 outstanding messages for offset commit (org.apache.kafka.connect.runtime.WorkerSourceTask:495)
-[2022-01-07 00:13:13,862] INFO WorkerSourceTask{id=my-source-connect-0} Committing offsets (org.apache.kafka.connect.runtime.WorkerSourceTask:478)
-[2022-01-07 00:13:13,862] INFO WorkerSourceTask{id=my-source-connect-0} flushing 0 outstanding messages for offset commit (org.apache.kafka.connect.runtime.WorkerSourceTask:495)
-[2022-01-07 00:13:23,867] INFO WorkerSourceTask{id=my-source-connect-0} Committing offsets (org.apache.kafka.connect.runtime.WorkerSourceTask:478)
-[2022-01-07 00:13:23,869] INFO WorkerSourceTask{id=my-source-connect-0} flushing 0 outstanding messages for offset commit (org.apache.kafka.connect.runtime.WorkerSourceTask:495)
-[2022-01-07 00:13:33,871] INFO WorkerSourceTask{id=my-source-connect-0} Committing offsets (org.apache.kafka.connect.runtime.WorkerSourceTask:478)
-[2022-01-07 00:13:33,872] INFO WorkerSourceTask{id=my-source-connect-0} flushing 0 outstanding messages for offset commit (org.apache.kafka.connect.runtime.WorkerSourceTask:495)
-[2022-01-07 00:13:43,876] INFO WorkerSourceTask{id=my-source-connect-0} Committing offsets (org.apache.kafka.connect.runtime.WorkerSourceTask:478)
-[2022-01-07 00:13:43,876] INFO WorkerSourceTask{id=my-source-connect-0} flushing 0 outstanding messages for offset commit (org.apache.kafka.connect.runtime.WorkerSourceTask:495)
-[2022-01-07 00:13:53,878] INFO WorkerSourceTask{id=my-source-connect-0} Committing offsets (org.apache.kafka.connect.runtime.WorkerSourceTask:478)
-[2022-01-07 00:13:53,879] INFO WorkerSourceTask{id=my-source-connect-0} flushing 0 outstanding messages for offset commit (org.apache.kafka.connect.runtime.WorkerSourceTask:495)
-[2022-01-07 00:14:03,883] INFO WorkerSourceTask{id=my-source-connect-0} Committing offsets (org.apache.kafka.connect.runtime.WorkerSourceTask:478)
-[2022-01-07 00:14:03,884] INFO WorkerSourceTask{id=my-source-connect-0} flushing 0 outstanding messages for offset commit (org.apache.kafka.connect.runtime.WorkerSourceTask:495)
-[2022-01-07 00:14:13,885] INFO WorkerSourceTask{id=my-source-connect-0} Committing offsets (org.apache.kafka.connect.runtime.WorkerSourceTask:478)
-[2022-01-07 00:14:13,885] INFO WorkerSourceTask{id=my-source-connect-0} flushing 0 outstanding messages for offset commit (org.apache.kafka.connect.runtime.WorkerSourceTask:495)
-[2022-01-07 00:14:23,885] INFO WorkerSourceTask{id=my-source-connect-0} Committing offsets (org.apache.kafka.connect.runtime.WorkerSourceTask:478)
-[2022-01-07 00:14:23,885] INFO WorkerSourceTask{id=my-source-connect-0} flushing 0 outstanding messages for offset commit (org.apache.kafka.connect.runtime.WorkerSourceTask:495)
-[2022-01-07 00:14:33,889] INFO WorkerSourceTask{id=my-source-connect-0} Committing offsets (org.apache.kafka.connect.runtime.WorkerSourceTask:478)
-[2022-01-07 00:14:33,889] INFO WorkerSourceTask{id=my-source-connect-0} flushing 0 outstanding messages for offset commit (org.apache.kafka.connect.runtime.WorkerSourceTask:495)
-[2022-01-07 00:14:43,892] INFO WorkerSourceTask{id=my-source-connect-0} Committing offsets (org.apache.kafka.connect.runtime.WorkerSourceTask:478)
-[2022-01-07 00:14:43,893] INFO WorkerSourceTask{id=my-source-connect-0} flushing 0 outstanding messages for offset commit (org.apache.kafka.connect.runtime.WorkerSourceTask:495)
-[2022-01-07 00:14:53,896] INFO WorkerSourceTask{id=my-source-connect-0} Committing offsets (org.apache.kafka.connect.runtime.WorkerSourceTask:478)
-[2022-01-07 00:14:53,897] INFO WorkerSourceTask{id=my-source-connect-0} flushing 0 outstanding messages for offset commit (org.apache.kafka.connect.runtime.WorkerSourceTask:495)
-[2022-01-07 00:15:03,901] INFO WorkerSourceTask{id=my-source-connect-0} Committing offsets (org.apache.kafka.connect.runtime.WorkerSourceTask:478)
-[2022-01-07 00:15:03,902] INFO WorkerSourceTask{id=my-source-connect-0} flushing 0 outstanding messages for offset commit (org.apache.kafka.connect.runtime.WorkerSourceTask:495)
-[2022-01-07 00:15:13,906] INFO WorkerSourceTask{id=my-source-connect-0} Committing offsets (org.apache.kafka.connect.runtime.WorkerSourceTask:478)
-[2022-01-07 00:15:13,907] INFO WorkerSourceTask{id=my-source-connect-0} flushing 0 outstanding messages for offset commit (org.apache.kafka.connect.runtime.WorkerSourceTask:495)
-[2022-01-07 00:15:23,912] INFO WorkerSourceTask{id=my-source-connect-0} Committing offsets (org.apache.kafka.connect.runtime.WorkerSourceTask:478)
-[2022-01-07 00:15:23,913] INFO WorkerSourceTask{id=my-source-connect-0} flushing 0 outstanding messages for offset commit (org.apache.kafka.connect.runtime.WorkerSourceTask:495)
-[2022-01-07 00:15:33,915] INFO WorkerSourceTask{id=my-source-connect-0} Committing offsets (org.apache.kafka.connect.runtime.WorkerSourceTask:478)
-[2022-01-07 00:15:33,917] INFO WorkerSourceTask{id=my-source-connect-0} flushing 0 outstanding messages for offset commit (org.apache.kafka.connect.runtime.WorkerSourceTask:495)
-[2022-01-07 00:15:43,922] INFO WorkerSourceTask{id=my-source-connect-0} Committing offsets (org.apache.kafka.connect.runtime.WorkerSourceTask:478)
-[2022-01-07 00:15:43,922] INFO WorkerSourceTask{id=my-source-connect-0} flushing 0 outstanding messages for offset commit (org.apache.kafka.connect.runtime.WorkerSourceTask:495)
-[2022-01-07 00:15:53,927] INFO WorkerSourceTask{id=my-source-connect-0} Committing offsets (org.apache.kafka.connect.runtime.WorkerSourceTask:478)
-[2022-01-07 00:15:53,928] INFO WorkerSourceTask{id=my-source-connect-0} flushing 0 outstanding messages for offset commit (org.apache.kafka.connect.runtime.WorkerSourceTask:495)
-[2022-01-07 00:16:03,932] INFO WorkerSourceTask{id=my-source-connect-0} Committing offsets (org.apache.kafka.connect.runtime.WorkerSourceTask:478)
-[2022-01-07 00:16:03,932] INFO WorkerSourceTask{id=my-source-connect-0} flushing 0 outstanding messages for offset commit (org.apache.kafka.connect.runtime.WorkerSourceTask:495)
-[2022-01-07 00:16:13,934] INFO WorkerSourceTask{id=my-source-connect-0} Committing offsets (org.apache.kafka.connect.runtime.WorkerSourceTask:478)
-[2022-01-07 00:16:13,934] INFO WorkerSourceTask{id=my-source-connect-0} flushing 0 outstanding messages for offset commit (org.apache.kafka.connect.runtime.WorkerSourceTask:495)
-[2022-01-07 00:16:23,935] INFO WorkerSourceTask{id=my-source-connect-0} Committing offsets (org.apache.kafka.connect.runtime.WorkerSourceTask:478)
-[2022-01-07 00:16:23,935] INFO WorkerSourceTask{id=my-source-connect-0} flushing 0 outstanding messages for offset commit (org.apache.kafka.connect.runtime.WorkerSourceTask:495)
-[2022-01-07 00:16:33,941] INFO WorkerSourceTask{id=my-source-connect-0} Committing offsets (org.apache.kafka.connect.runtime.WorkerSourceTask:478)
-[2022-01-07 00:16:33,943] INFO WorkerSourceTask{id=my-source-connect-0} flushing 0 outstanding messages for offset commit (org.apache.kafka.connect.runtime.WorkerSourceTask:495)
-[2022-01-07 00:16:43,945] INFO WorkerSourceTask{id=my-source-connect-0} Committing offsets (org.apache.kafka.connect.runtime.WorkerSourceTask:478)
-[2022-01-07 00:16:43,945] INFO WorkerSourceTask{id=my-source-connect-0} flushing 0 outstanding messages for offset commit (org.apache.kafka.connect.runtime.WorkerSourceTask:495)
-[2022-01-07 00:16:53,948] INFO WorkerSourceTask{id=my-source-connect-0} Committing offsets (org.apache.kafka.connect.runtime.WorkerSourceTask:478)
-[2022-01-07 00:16:53,948] INFO WorkerSourceTask{id=my-source-connect-0} flushing 0 outstanding messages for offset commit (org.apache.kafka.connect.runtime.WorkerSourceTask:495)
-[2022-01-07 00:17:03,951] INFO WorkerSourceTask{id=my-source-connect-0} Committing offsets (org.apache.kafka.connect.runtime.WorkerSourceTask:478)
-[2022-01-07 00:17:03,953] INFO WorkerSourceTask{id=my-source-connect-0} flushing 0 outstanding messages for offset commit (org.apache.kafka.connect.runtime.WorkerSourceTask:495)
-[2022-01-07 00:17:13,957] INFO WorkerSourceTask{id=my-source-connect-0} Committing offsets (org.apache.kafka.connect.runtime.WorkerSourceTask:478)
-[2022-01-07 00:17:13,957] INFO WorkerSourceTask{id=my-source-connect-0} flushing 0 outstanding messages for offset commit (org.apache.kafka.connect.runtime.WorkerSourceTask:495)
-[2022-01-07 00:17:23,961] INFO WorkerSourceTask{id=my-source-connect-0} Committing offsets (org.apache.kafka.connect.runtime.WorkerSourceTask:478)
-[2022-01-07 00:17:23,961] INFO WorkerSourceTask{id=my-source-connect-0} flushing 0 outstanding messages for offset commit (org.apache.kafka.connect.runtime.WorkerSourceTask:495)
-[2022-01-07 00:17:33,964] INFO WorkerSourceTask{id=my-source-connect-0} Committing offsets (org.apache.kafka.connect.runtime.WorkerSourceTask:478)
-[2022-01-07 00:17:33,966] INFO WorkerSourceTask{id=my-source-connect-0} flushing 0 outstanding messages for offset commit (org.apache.kafka.connect.runtime.WorkerSourceTask:495)
-[2022-01-07 00:17:43,969] INFO WorkerSourceTask{id=my-source-connect-0} Committing offsets (org.apache.kafka.connect.runtime.WorkerSourceTask:478)
-[2022-01-07 00:17:43,969] INFO WorkerSourceTask{id=my-source-connect-0} flushing 0 outstanding messages for offset commit (org.apache.kafka.connect.runtime.WorkerSourceTask:495)
-[2022-01-07 00:17:53,971] INFO WorkerSourceTask{id=my-source-connect-0} Committing offsets (org.apache.kafka.connect.runtime.WorkerSourceTask:478)
-[2022-01-07 00:17:53,971] INFO WorkerSourceTask{id=my-source-connect-0} flushing 0 outstanding messages for offset commit (org.apache.kafka.connect.runtime.WorkerSourceTask:495)
-[2022-01-07 00:18:03,973] INFO WorkerSourceTask{id=my-source-connect-0} Committing offsets (org.apache.kafka.connect.runtime.WorkerSourceTask:478)
-[2022-01-07 00:18:03,974] INFO WorkerSourceTask{id=my-source-connect-0} flushing 0 outstanding messages for offset commit (org.apache.kafka.connect.runtime.WorkerSourceTask:495)
-[2022-01-07 00:18:13,978] INFO WorkerSourceTask{id=my-source-connect-0} Committing offsets (org.apache.kafka.connect.runtime.WorkerSourceTask:478)
-[2022-01-07 00:18:13,979] INFO WorkerSourceTask{id=my-source-connect-0} flushing 0 outstanding messages for offset commit (org.apache.kafka.connect.runtime.WorkerSourceTask:495)
-[2022-01-07 00:18:23,979] INFO WorkerSourceTask{id=my-source-connect-0} Committing offsets (org.apache.kafka.connect.runtime.WorkerSourceTask:478)
-[2022-01-07 00:18:23,980] INFO WorkerSourceTask{id=my-source-connect-0} flushing 0 outstanding messages for offset commit (org.apache.kafka.connect.runtime.WorkerSourceTask:495)
-[2022-01-07 00:18:33,982] INFO WorkerSourceTask{id=my-source-connect-0} Committing offsets (org.apache.kafka.connect.runtime.WorkerSourceTask:478)
-[2022-01-07 00:18:33,983] INFO WorkerSourceTask{id=my-source-connect-0} flushing 0 outstanding messages for offset commit (org.apache.kafka.connect.runtime.WorkerSourceTask:495)
-[2022-01-07 00:18:43,987] INFO WorkerSourceTask{id=my-source-connect-0} Committing offsets (org.apache.kafka.connect.runtime.WorkerSourceTask:478)
-[2022-01-07 00:18:43,988] INFO WorkerSourceTask{id=my-source-connect-0} flushing 0 outstanding messages for offset commit (org.apache.kafka.connect.runtime.WorkerSourceTask:495)
-[2022-01-07 00:18:53,992] INFO WorkerSourceTask{id=my-source-connect-0} Committing offsets (org.apache.kafka.connect.runtime.WorkerSourceTask:478)
-[2022-01-07 00:18:53,993] INFO WorkerSourceTask{id=my-source-connect-0} flushing 0 outstanding messages for offset commit (org.apache.kafka.connect.runtime.WorkerSourceTask:495)
-[2022-01-07 00:19:03,995] INFO WorkerSourceTask{id=my-source-connect-0} Committing offsets (org.apache.kafka.connect.runtime.WorkerSourceTask:478)
-[2022-01-07 00:19:03,996] INFO WorkerSourceTask{id=my-source-connect-0} flushing 0 outstanding messages for offset commit (org.apache.kafka.connect.runtime.WorkerSourceTask:495)
-[2022-01-07 00:19:13,999] INFO WorkerSourceTask{id=my-source-connect-0} Committing offsets (org.apache.kafka.connect.runtime.WorkerSourceTask:478)
-[2022-01-07 00:19:14,000] INFO WorkerSourceTask{id=my-source-connect-0} flushing 0 outstanding messages for offset commit (org.apache.kafka.connect.runtime.WorkerSourceTask:495)
-[2022-01-07 00:19:24,004] INFO WorkerSourceTask{id=my-source-connect-0} Committing offsets (org.apache.kafka.connect.runtime.WorkerSourceTask:478)
-[2022-01-07 00:19:24,005] INFO WorkerSourceTask{id=my-source-connect-0} flushing 0 outstanding messages for offset commit (org.apache.kafka.connect.runtime.WorkerSourceTask:495)
-[2022-01-07 00:19:34,010] INFO WorkerSourceTask{id=my-source-connect-0} Committing offsets (org.apache.kafka.connect.runtime.WorkerSourceTask:478)
-[2022-01-07 00:19:34,011] INFO WorkerSourceTask{id=my-source-connect-0} flushing 0 outstanding messages for offset commit (org.apache.kafka.connect.runtime.WorkerSourceTask:495)
-[2022-01-07 00:19:39,963] INFO [Worker clientId=connect-1, groupId=connect-cluster] Session key updated (org.apache.kafka.connect.runtime.distributed.DistributedHerder:1578)
-[2022-01-07 00:19:44,016] INFO WorkerSourceTask{id=my-source-connect-0} Committing offsets (org.apache.kafka.connect.runtime.WorkerSourceTask:478)
-[2022-01-07 00:19:44,016] INFO WorkerSourceTask{id=my-source-connect-0} flushing 0 outstanding messages for offset commit (org.apache.kafka.connect.runtime.WorkerSourceTask:495)
-[2022-01-07 00:19:54,021] INFO WorkerSourceTask{id=my-source-connect-0} Committing offsets (org.apache.kafka.connect.runtime.WorkerSourceTask:478)
-[2022-01-07 00:19:54,022] INFO WorkerSourceTask{id=my-source-connect-0} flushing 0 outstanding messages for offset commit (org.apache.kafka.connect.runtime.WorkerSourceTask:495)
-[2022-01-07 00:20:04,023] INFO WorkerSourceTask{id=my-source-connect-0} Committing offsets (org.apache.kafka.connect.runtime.WorkerSourceTask:478)
-[2022-01-07 00:20:04,023] INFO WorkerSourceTask{id=my-source-connect-0} flushing 0 outstanding messages for offset commit (org.apache.kafka.connect.runtime.WorkerSourceTask:495)
-[2022-01-07 00:20:14,027] INFO WorkerSourceTask{id=my-source-connect-0} Committing offsets (org.apache.kafka.connect.runtime.WorkerSourceTask:478)
-[2022-01-07 00:20:14,027] INFO WorkerSourceTask{id=my-source-connect-0} flushing 0 outstanding messages for offset commit (org.apache.kafka.connect.runtime.WorkerSourceTask:495)
-[2022-01-07 00:20:24,029] INFO WorkerSourceTask{id=my-source-connect-0} Committing offsets (org.apache.kafka.connect.runtime.WorkerSourceTask:478)
-[2022-01-07 00:20:24,030] INFO WorkerSourceTask{id=my-source-connect-0} flushing 0 outstanding messages for offset commit (org.apache.kafka.connect.runtime.WorkerSourceTask:495)
-[2022-01-07 00:20:34,033] INFO WorkerSourceTask{id=my-source-connect-0} Committing offsets (org.apache.kafka.connect.runtime.WorkerSourceTask:478)
-[2022-01-07 00:20:34,034] INFO WorkerSourceTask{id=my-source-connect-0} flushing 0 outstanding messages for offset commit (org.apache.kafka.connect.runtime.WorkerSourceTask:495)
-[2022-01-07 00:20:44,038] INFO WorkerSourceTask{id=my-source-connect-0} Committing offsets (org.apache.kafka.connect.runtime.WorkerSourceTask:478)
-[2022-01-07 00:20:44,039] INFO WorkerSourceTask{id=my-source-connect-0} flushing 0 outstanding messages for offset commit (org.apache.kafka.connect.runtime.WorkerSourceTask:495)
-[2022-01-07 00:20:54,043] INFO WorkerSourceTask{id=my-source-connect-0} Committing offsets (org.apache.kafka.connect.runtime.WorkerSourceTask:478)
-[2022-01-07 00:20:54,043] INFO WorkerSourceTask{id=my-source-connect-0} flushing 0 outstanding messages for offset commit (org.apache.kafka.connect.runtime.WorkerSourceTask:495)
-[2022-01-07 00:21:04,043] INFO WorkerSourceTask{id=my-source-connect-0} Committing offsets (org.apache.kafka.connect.runtime.WorkerSourceTask:478)
-[2022-01-07 00:21:04,044] INFO WorkerSourceTask{id=my-source-connect-0} flushing 0 outstanding messages for offset commit (org.apache.kafka.connect.runtime.WorkerSourceTask:495)
-[2022-01-07 00:21:14,049] INFO WorkerSourceTask{id=my-source-connect-0} Committing offsets (org.apache.kafka.connect.runtime.WorkerSourceTask:478)
-[2022-01-07 00:21:14,049] INFO WorkerSourceTask{id=my-source-connect-0} flushing 0 outstanding messages for offset commit (org.apache.kafka.connect.runtime.WorkerSourceTask:495)
-[2022-01-07 00:21:24,052] INFO WorkerSourceTask{id=my-source-connect-0} Committing offsets (org.apache.kafka.connect.runtime.WorkerSourceTask:478)
-[2022-01-07 00:21:24,053] INFO WorkerSourceTask{id=my-source-connect-0} flushing 0 outstanding messages for offset commit (org.apache.kafka.connect.runtime.WorkerSourceTask:495)
-[2022-01-07 00:21:34,058] INFO WorkerSourceTask{id=my-source-connect-0} Committing offsets (org.apache.kafka.connect.runtime.WorkerSourceTask:478)
-[2022-01-07 00:21:34,058] INFO WorkerSourceTask{id=my-source-connect-0} flushing 0 outstanding messages for offset commit (org.apache.kafka.connect.runtime.WorkerSourceTask:495)
-[2022-01-07 00:21:44,062] INFO WorkerSourceTask{id=my-source-connect-0} Committing offsets (org.apache.kafka.connect.runtime.WorkerSourceTask:478)
-[2022-01-07 00:21:44,062] INFO WorkerSourceTask{id=my-source-connect-0} flushing 0 outstanding messages for offset commit (org.apache.kafka.connect.runtime.WorkerSourceTask:495)
-[2022-01-07 00:21:54,067] INFO WorkerSourceTask{id=my-source-connect-0} Committing offsets (org.apache.kafka.connect.runtime.WorkerSourceTask:478)
-[2022-01-07 00:21:54,067] INFO WorkerSourceTask{id=my-source-connect-0} flushing 0 outstanding messages for offset commit (org.apache.kafka.connect.runtime.WorkerSourceTask:495)
-[2022-01-07 00:22:04,071] INFO WorkerSourceTask{id=my-source-connect-0} Committing offsets (org.apache.kafka.connect.runtime.WorkerSourceTask:478)
-[2022-01-07 00:22:04,073] INFO WorkerSourceTask{id=my-source-connect-0} flushing 0 outstanding messages for offset commit (org.apache.kafka.connect.runtime.WorkerSourceTask:495)
-[2022-01-07 00:22:14,077] INFO WorkerSourceTask{id=my-source-connect-0} Committing offsets (org.apache.kafka.connect.runtime.WorkerSourceTask:478)
-[2022-01-07 00:22:14,078] INFO WorkerSourceTask{id=my-source-connect-0} flushing 0 outstanding messages for offset commit (org.apache.kafka.connect.runtime.WorkerSourceTask:495)
-[2022-01-07 00:22:24,081] INFO WorkerSourceTask{id=my-source-connect-0} Committing offsets (org.apache.kafka.connect.runtime.WorkerSourceTask:478)
-[2022-01-07 00:22:24,081] INFO WorkerSourceTask{id=my-source-connect-0} flushing 0 outstanding messages for offset commit (org.apache.kafka.connect.runtime.WorkerSourceTask:495)
-[2022-01-07 00:22:34,085] INFO WorkerSourceTask{id=my-source-connect-0} Committing offsets (org.apache.kafka.connect.runtime.WorkerSourceTask:478)
-[2022-01-07 00:22:34,086] INFO WorkerSourceTask{id=my-source-connect-0} flushing 0 outstanding messages for offset commit (org.apache.kafka.connect.runtime.WorkerSourceTask:495)
-[2022-01-07 00:22:44,090] INFO WorkerSourceTask{id=my-source-connect-0} Committing offsets (org.apache.kafka.connect.runtime.WorkerSourceTask:478)
-[2022-01-07 00:22:44,090] INFO WorkerSourceTask{id=my-source-connect-0} flushing 0 outstanding messages for offset commit (org.apache.kafka.connect.runtime.WorkerSourceTask:495)
-[2022-01-07 00:22:54,094] INFO WorkerSourceTask{id=my-source-connect-0} Committing offsets (org.apache.kafka.connect.runtime.WorkerSourceTask:478)
-[2022-01-07 00:22:54,094] INFO WorkerSourceTask{id=my-source-connect-0} flushing 0 outstanding messages for offset commit (org.apache.kafka.connect.runtime.WorkerSourceTask:495)
-[2022-01-07 00:23:04,099] INFO WorkerSourceTask{id=my-source-connect-0} Committing offsets (org.apache.kafka.connect.runtime.WorkerSourceTask:478)
-[2022-01-07 00:23:04,099] INFO WorkerSourceTask{id=my-source-connect-0} flushing 0 outstanding messages for offset commit (org.apache.kafka.connect.runtime.WorkerSourceTask:495)
-[2022-01-07 00:23:14,103] INFO WorkerSourceTask{id=my-source-connect-0} Committing offsets (org.apache.kafka.connect.runtime.WorkerSourceTask:478)
-[2022-01-07 00:23:14,103] INFO WorkerSourceTask{id=my-source-connect-0} flushing 0 outstanding messages for offset commit (org.apache.kafka.connect.runtime.WorkerSourceTask:495)
-[2022-01-07 00:23:24,104] INFO WorkerSourceTask{id=my-source-connect-0} Committing offsets (org.apache.kafka.connect.runtime.WorkerSourceTask:478)
-[2022-01-07 00:23:24,105] INFO WorkerSourceTask{id=my-source-connect-0} flushing 0 outstanding messages for offset commit (org.apache.kafka.connect.runtime.WorkerSourceTask:495)
-[2022-01-07 00:23:34,108] INFO WorkerSourceTask{id=my-source-connect-0} Committing offsets (org.apache.kafka.connect.runtime.WorkerSourceTask:478)
-[2022-01-07 00:23:34,109] INFO WorkerSourceTask{id=my-source-connect-0} flushing 0 outstanding messages for offset commit (org.apache.kafka.connect.runtime.WorkerSourceTask:495)
-[2022-01-07 00:23:44,113] INFO WorkerSourceTask{id=my-source-connect-0} Committing offsets (org.apache.kafka.connect.runtime.WorkerSourceTask:478)
-[2022-01-07 00:23:44,113] INFO WorkerSourceTask{id=my-source-connect-0} flushing 0 outstanding messages for offset commit (org.apache.kafka.connect.runtime.WorkerSourceTask:495)
-[2022-01-07 00:23:54,117] INFO WorkerSourceTask{id=my-source-connect-0} Committing offsets (org.apache.kafka.connect.runtime.WorkerSourceTask:478)
-[2022-01-07 00:23:54,117] INFO WorkerSourceTask{id=my-source-connect-0} flushing 0 outstanding messages for offset commit (org.apache.kafka.connect.runtime.WorkerSourceTask:495)
-[2022-01-07 00:24:04,121] INFO WorkerSourceTask{id=my-source-connect-0} Committing offsets (org.apache.kafka.connect.runtime.WorkerSourceTask:478)
-[2022-01-07 00:24:04,121] INFO WorkerSourceTask{id=my-source-connect-0} flushing 0 outstanding messages for offset commit (org.apache.kafka.connect.runtime.WorkerSourceTask:495)
-[2022-01-07 00:24:14,126] INFO WorkerSourceTask{id=my-source-connect-0} Committing offsets (org.apache.kafka.connect.runtime.WorkerSourceTask:478)
-[2022-01-07 00:24:14,126] INFO WorkerSourceTask{id=my-source-connect-0} flushing 0 outstanding messages for offset commit (org.apache.kafka.connect.runtime.WorkerSourceTask:495)
-[2022-01-07 00:24:24,128] INFO WorkerSourceTask{id=my-source-connect-0} Committing offsets (org.apache.kafka.connect.runtime.WorkerSourceTask:478)
-[2022-01-07 00:24:24,129] INFO WorkerSourceTask{id=my-source-connect-0} flushing 0 outstanding messages for offset commit (org.apache.kafka.connect.runtime.WorkerSourceTask:495)
-[2022-01-07 00:24:34,134] INFO WorkerSourceTask{id=my-source-connect-0} Committing offsets (org.apache.kafka.connect.runtime.WorkerSourceTask:478)
-[2022-01-07 00:24:34,136] INFO WorkerSourceTask{id=my-source-connect-0} flushing 0 outstanding messages for offset commit (org.apache.kafka.connect.runtime.WorkerSourceTask:495)
-[2022-01-07 00:24:44,140] INFO WorkerSourceTask{id=my-source-connect-0} Committing offsets (org.apache.kafka.connect.runtime.WorkerSourceTask:478)
-[2022-01-07 00:24:44,141] INFO WorkerSourceTask{id=my-source-connect-0} flushing 0 outstanding messages for offset commit (org.apache.kafka.connect.runtime.WorkerSourceTask:495)
-[2022-01-07 00:24:54,145] INFO WorkerSourceTask{id=my-source-connect-0} Committing offsets (org.apache.kafka.connect.runtime.WorkerSourceTask:478)
-[2022-01-07 00:24:54,145] INFO WorkerSourceTask{id=my-source-connect-0} flushing 0 outstanding messages for offset commit (org.apache.kafka.connect.runtime.WorkerSourceTask:495)
-[2022-01-07 00:25:04,150] INFO WorkerSourceTask{id=my-source-connect-0} Committing offsets (org.apache.kafka.connect.runtime.WorkerSourceTask:478)
-[2022-01-07 00:25:04,150] INFO WorkerSourceTask{id=my-source-connect-0} flushing 0 outstanding messages for offset commit (org.apache.kafka.connect.runtime.WorkerSourceTask:495)
-[2022-01-07 00:25:14,153] INFO WorkerSourceTask{id=my-source-connect-0} Committing offsets (org.apache.kafka.connect.runtime.WorkerSourceTask:478)
-[2022-01-07 00:25:14,153] INFO WorkerSourceTask{id=my-source-connect-0} flushing 0 outstanding messages for offset commit (org.apache.kafka.connect.runtime.WorkerSourceTask:495)
-[2022-01-07 00:25:24,157] INFO WorkerSourceTask{id=my-source-connect-0} Committing offsets (org.apache.kafka.connect.runtime.WorkerSourceTask:478)
-[2022-01-07 00:25:24,158] INFO WorkerSourceTask{id=my-source-connect-0} flushing 0 outstanding messages for offset commit (org.apache.kafka.connect.runtime.WorkerSourceTask:495)
-[2022-01-07 00:25:34,161] INFO WorkerSourceTask{id=my-source-connect-0} Committing offsets (org.apache.kafka.connect.runtime.WorkerSourceTask:478)
-[2022-01-07 00:25:34,161] INFO WorkerSourceTask{id=my-source-connect-0} flushing 0 outstanding messages for offset commit (org.apache.kafka.connect.runtime.WorkerSourceTask:495)
-[2022-01-07 00:25:44,164] INFO WorkerSourceTask{id=my-source-connect-0} Committing offsets (org.apache.kafka.connect.runtime.WorkerSourceTask:478)
-[2022-01-07 00:25:44,165] INFO WorkerSourceTask{id=my-source-connect-0} flushing 0 outstanding messages for offset commit (org.apache.kafka.connect.runtime.WorkerSourceTask:495)
-[2022-01-07 00:25:54,169] INFO WorkerSourceTask{id=my-source-connect-0} Committing offsets (org.apache.kafka.connect.runtime.WorkerSourceTask:478)
-[2022-01-07 00:25:54,170] INFO WorkerSourceTask{id=my-source-connect-0} flushing 0 outstanding messages for offset commit (org.apache.kafka.connect.runtime.WorkerSourceTask:495)
-[2022-01-07 00:26:04,172] INFO WorkerSourceTask{id=my-source-connect-0} Committing offsets (org.apache.kafka.connect.runtime.WorkerSourceTask:478)
-[2022-01-07 00:26:04,172] INFO WorkerSourceTask{id=my-source-connect-0} flushing 0 outstanding messages for offset commit (org.apache.kafka.connect.runtime.WorkerSourceTask:495)
-[2022-01-07 00:26:14,176] INFO WorkerSourceTask{id=my-source-connect-0} Committing offsets (org.apache.kafka.connect.runtime.WorkerSourceTask:478)
-[2022-01-07 00:26:14,177] INFO WorkerSourceTask{id=my-source-connect-0} flushing 0 outstanding messages for offset commit (org.apache.kafka.connect.runtime.WorkerSourceTask:495)
-[2022-01-07 00:26:24,182] INFO WorkerSourceTask{id=my-source-connect-0} Committing offsets (org.apache.kafka.connect.runtime.WorkerSourceTask:478)
-[2022-01-07 00:26:24,182] INFO WorkerSourceTask{id=my-source-connect-0} flushing 0 outstanding messages for offset commit (org.apache.kafka.connect.runtime.WorkerSourceTask:495)
-[2022-01-07 00:26:34,186] INFO WorkerSourceTask{id=my-source-connect-0} Committing offsets (org.apache.kafka.connect.runtime.WorkerSourceTask:478)
-[2022-01-07 00:26:34,186] INFO WorkerSourceTask{id=my-source-connect-0} flushing 0 outstanding messages for offset commit (org.apache.kafka.connect.runtime.WorkerSourceTask:495)
-[2022-01-07 00:26:44,189] INFO WorkerSourceTask{id=my-source-connect-0} Committing offsets (org.apache.kafka.connect.runtime.WorkerSourceTask:478)
-[2022-01-07 00:26:44,189] INFO WorkerSourceTask{id=my-source-connect-0} flushing 0 outstanding messages for offset commit (org.apache.kafka.connect.runtime.WorkerSourceTask:495)
-[2022-01-07 00:26:54,194] INFO WorkerSourceTask{id=my-source-connect-0} Committing offsets (org.apache.kafka.connect.runtime.WorkerSourceTask:478)
-[2022-01-07 00:26:54,194] INFO WorkerSourceTask{id=my-source-connect-0} flushing 0 outstanding messages for offset commit (org.apache.kafka.connect.runtime.WorkerSourceTask:495)
-[2022-01-07 00:27:04,198] INFO WorkerSourceTask{id=my-source-connect-0} Committing offsets (org.apache.kafka.connect.runtime.WorkerSourceTask:478)
-[2022-01-07 00:27:04,199] INFO WorkerSourceTask{id=my-source-connect-0} flushing 0 outstanding messages for offset commit (org.apache.kafka.connect.runtime.WorkerSourceTask:495)
-[2022-01-07 00:27:14,201] INFO WorkerSourceTask{id=my-source-connect-0} Committing offsets (org.apache.kafka.connect.runtime.WorkerSourceTask:478)
-[2022-01-07 00:27:14,202] INFO WorkerSourceTask{id=my-source-connect-0} flushing 0 outstanding messages for offset commit (org.apache.kafka.connect.runtime.WorkerSourceTask:495)
-[2022-01-07 00:27:24,207] INFO WorkerSourceTask{id=my-source-connect-0} Committing offsets (org.apache.kafka.connect.runtime.WorkerSourceTask:478)
-[2022-01-07 00:27:24,207] INFO WorkerSourceTask{id=my-source-connect-0} flushing 0 outstanding messages for offset commit (org.apache.kafka.connect.runtime.WorkerSourceTask:495)
-[2022-01-07 00:27:34,211] INFO WorkerSourceTask{id=my-source-connect-0} Committing offsets (org.apache.kafka.connect.runtime.WorkerSourceTask:478)
-[2022-01-07 00:27:34,211] INFO WorkerSourceTask{id=my-source-connect-0} flushing 0 outstanding messages for offset commit (org.apache.kafka.connect.runtime.WorkerSourceTask:495)
-[2022-01-07 00:27:44,213] INFO WorkerSourceTask{id=my-source-connect-0} Committing offsets (org.apache.kafka.connect.runtime.WorkerSourceTask:478)
-[2022-01-07 00:27:44,213] INFO WorkerSourceTask{id=my-source-connect-0} flushing 0 outstanding messages for offset commit (org.apache.kafka.connect.runtime.WorkerSourceTask:495)
-[2022-01-07 00:27:54,217] INFO WorkerSourceTask{id=my-source-connect-0} Committing offsets (org.apache.kafka.connect.runtime.WorkerSourceTask:478)
-[2022-01-07 00:27:54,218] INFO WorkerSourceTask{id=my-source-connect-0} flushing 0 outstanding messages for offset commit (org.apache.kafka.connect.runtime.WorkerSourceTask:495)
-[2022-01-07 00:28:04,222] INFO WorkerSourceTask{id=my-source-connect-0} Committing offsets (org.apache.kafka.connect.runtime.WorkerSourceTask:478)
-[2022-01-07 00:28:04,223] INFO WorkerSourceTask{id=my-source-connect-0} flushing 0 outstanding messages for offset commit (org.apache.kafka.connect.runtime.WorkerSourceTask:495)
-[2022-01-07 00:28:14,226] INFO WorkerSourceTask{id=my-source-connect-0} Committing offsets (org.apache.kafka.connect.runtime.WorkerSourceTask:478)
-[2022-01-07 00:28:14,227] INFO WorkerSourceTask{id=my-source-connect-0} flushing 0 outstanding messages for offset commit (org.apache.kafka.connect.runtime.WorkerSourceTask:495)
-[2022-01-07 00:28:24,232] INFO WorkerSourceTask{id=my-source-connect-0} Committing offsets (org.apache.kafka.connect.runtime.WorkerSourceTask:478)
-[2022-01-07 00:28:24,233] INFO WorkerSourceTask{id=my-source-connect-0} flushing 0 outstanding messages for offset commit (org.apache.kafka.connect.runtime.WorkerSourceTask:495)
-[2022-01-07 00:28:34,234] INFO WorkerSourceTask{id=my-source-connect-0} Committing offsets (org.apache.kafka.connect.runtime.WorkerSourceTask:478)
-[2022-01-07 00:28:34,234] INFO WorkerSourceTask{id=my-source-connect-0} flushing 0 outstanding messages for offset commit (org.apache.kafka.connect.runtime.WorkerSourceTask:495)
-[2022-01-07 00:28:44,237] INFO WorkerSourceTask{id=my-source-connect-0} Committing offsets (org.apache.kafka.connect.runtime.WorkerSourceTask:478)
-[2022-01-07 00:28:44,237] INFO WorkerSourceTask{id=my-source-connect-0} flushing 0 outstanding messages for offset commit (org.apache.kafka.connect.runtime.WorkerSourceTask:495)
-[2022-01-07 00:28:54,241] INFO WorkerSourceTask{id=my-source-connect-0} Committing offsets (org.apache.kafka.connect.runtime.WorkerSourceTask:478)
-[2022-01-07 00:28:54,241] INFO WorkerSourceTask{id=my-source-connect-0} flushing 0 outstanding messages for offset commit (org.apache.kafka.connect.runtime.WorkerSourceTask:495)
-[2022-01-07 00:29:04,244] INFO WorkerSourceTask{id=my-source-connect-0} Committing offsets (org.apache.kafka.connect.runtime.WorkerSourceTask:478)
-[2022-01-07 00:29:04,245] INFO WorkerSourceTask{id=my-source-connect-0} flushing 0 outstanding messages for offset commit (org.apache.kafka.connect.runtime.WorkerSourceTask:495)
-[2022-01-07 00:29:14,250] INFO WorkerSourceTask{id=my-source-connect-0} Committing offsets (org.apache.kafka.connect.runtime.WorkerSourceTask:478)
-[2022-01-07 00:29:14,250] INFO WorkerSourceTask{id=my-source-connect-0} flushing 0 outstanding messages for offset commit (org.apache.kafka.connect.runtime.WorkerSourceTask:495)
-[2022-01-07 00:29:24,253] INFO WorkerSourceTask{id=my-source-connect-0} Committing offsets (org.apache.kafka.connect.runtime.WorkerSourceTask:478)
-[2022-01-07 00:29:24,253] INFO WorkerSourceTask{id=my-source-connect-0} flushing 0 outstanding messages for offset commit (org.apache.kafka.connect.runtime.WorkerSourceTask:495)
-[2022-01-07 00:29:34,258] INFO WorkerSourceTask{id=my-source-connect-0} Committing offsets (org.apache.kafka.connect.runtime.WorkerSourceTask:478)
-[2022-01-07 00:29:34,259] INFO WorkerSourceTask{id=my-source-connect-0} flushing 0 outstanding messages for offset commit (org.apache.kafka.connect.runtime.WorkerSourceTask:495)
-[2022-01-07 00:29:44,264] INFO WorkerSourceTask{id=my-source-connect-0} Committing offsets (org.apache.kafka.connect.runtime.WorkerSourceTask:478)
-[2022-01-07 00:29:44,266] INFO WorkerSourceTask{id=my-source-connect-0} flushing 0 outstanding messages for offset commit (org.apache.kafka.connect.runtime.WorkerSourceTask:495)
-[2022-01-07 00:29:54,270] INFO WorkerSourceTask{id=my-source-connect-0} Committing offsets (org.apache.kafka.connect.runtime.WorkerSourceTask:478)
-[2022-01-07 00:29:54,271] INFO WorkerSourceTask{id=my-source-connect-0} flushing 0 outstanding messages for offset commit (org.apache.kafka.connect.runtime.WorkerSourceTask:495)
-[2022-01-07 00:30:04,274] INFO WorkerSourceTask{id=my-source-connect-0} Committing offsets (org.apache.kafka.connect.runtime.WorkerSourceTask:478)
-[2022-01-07 00:30:04,275] INFO WorkerSourceTask{id=my-source-connect-0} flushing 0 outstanding messages for offset commit (org.apache.kafka.connect.runtime.WorkerSourceTask:495)
-[2022-01-07 00:30:14,279] INFO WorkerSourceTask{id=my-source-connect-0} Committing offsets (org.apache.kafka.connect.runtime.WorkerSourceTask:478)
-[2022-01-07 00:30:14,280] INFO WorkerSourceTask{id=my-source-connect-0} flushing 0 outstanding messages for offset commit (org.apache.kafka.connect.runtime.WorkerSourceTask:495)
-[2022-01-07 00:30:24,283] INFO WorkerSourceTask{id=my-source-connect-0} Committing offsets (org.apache.kafka.connect.runtime.WorkerSourceTask:478)
-[2022-01-07 00:30:24,283] INFO WorkerSourceTask{id=my-source-connect-0} flushing 0 outstanding messages for offset commit (org.apache.kafka.connect.runtime.WorkerSourceTask:495)
-[2022-01-07 00:30:34,286] INFO WorkerSourceTask{id=my-source-connect-0} Committing offsets (org.apache.kafka.connect.runtime.WorkerSourceTask:478)
-[2022-01-07 00:30:34,288] INFO WorkerSourceTask{id=my-source-connect-0} flushing 0 outstanding messages for offset commit (org.apache.kafka.connect.runtime.WorkerSourceTask:495)
-[2022-01-07 00:30:44,290] INFO WorkerSourceTask{id=my-source-connect-0} Committing offsets (org.apache.kafka.connect.runtime.WorkerSourceTask:478)
-[2022-01-07 00:30:44,291] INFO WorkerSourceTask{id=my-source-connect-0} flushing 0 outstanding messages for offset commit (org.apache.kafka.connect.runtime.WorkerSourceTask:495)
-[2022-01-07 00:30:54,292] INFO WorkerSourceTask{id=my-source-connect-0} Committing offsets (org.apache.kafka.connect.runtime.WorkerSourceTask:478)
-[2022-01-07 00:30:54,292] INFO WorkerSourceTask{id=my-source-connect-0} flushing 0 outstanding messages for offset commit (org.apache.kafka.connect.runtime.WorkerSourceTask:495)
-[2022-01-07 00:31:04,296] INFO WorkerSourceTask{id=my-source-connect-0} Committing offsets (org.apache.kafka.connect.runtime.WorkerSourceTask:478)
-[2022-01-07 00:31:04,296] INFO WorkerSourceTask{id=my-source-connect-0} flushing 0 outstanding messages for offset commit (org.apache.kafka.connect.runtime.WorkerSourceTask:495)
-[2022-01-07 00:31:12,151] INFO AbstractConfig values: 
- (org.apache.kafka.common.config.AbstractConfig:361)
-[2022-01-07 00:31:12,159] INFO [Worker clientId=connect-1, groupId=connect-cluster] Connector my-order-sink-connect config updated (org.apache.kafka.connect.runtime.distributed.DistributedHerder:1534)
-[2022-01-07 00:31:12,160] INFO [Worker clientId=connect-1, groupId=connect-cluster] Rebalance started (org.apache.kafka.connect.runtime.distributed.WorkerCoordinator:225)
-[2022-01-07 00:31:12,160] INFO [Worker clientId=connect-1, groupId=connect-cluster] (Re-)joining group (org.apache.kafka.clients.consumer.internals.AbstractCoordinator:540)
-[2022-01-07 00:31:12,169] INFO [Worker clientId=connect-1, groupId=connect-cluster] Successfully joined group with generation Generation{generationId=6, memberId='connect-1-31e2bc31-6aa5-49cb-82dd-ccf34a08d701', protocol='sessioned'} (org.apache.kafka.clients.consumer.internals.AbstractCoordinator:596)
-[2022-01-07 00:31:12,178] INFO [Worker clientId=connect-1, groupId=connect-cluster] Successfully synced group in generation Generation{generationId=6, memberId='connect-1-31e2bc31-6aa5-49cb-82dd-ccf34a08d701', protocol='sessioned'} (org.apache.kafka.clients.consumer.internals.AbstractCoordinator:756)
-[2022-01-07 00:31:12,178] INFO [Worker clientId=connect-1, groupId=connect-cluster] Joined group at generation 6 with protocol version 2 and got assignment: Assignment{error=0, leader='connect-1-31e2bc31-6aa5-49cb-82dd-ccf34a08d701', leaderUrl='http://127.0.0.1:8083/', offset=18, connectorIds=[my-order-sink-connect, my-sink-connect, my-source-connect], taskIds=[my-sink-connect-0, my-source-connect-0], revokedConnectorIds=[], revokedTaskIds=[], delay=0} with rebalance delay: 0 (org.apache.kafka.connect.runtime.distributed.DistributedHerder:1689)
-[2022-01-07 00:31:12,178] INFO [Worker clientId=connect-1, groupId=connect-cluster] Starting connectors and tasks using config offset 18 (org.apache.kafka.connect.runtime.distributed.DistributedHerder:1216)
-[2022-01-07 00:31:12,179] INFO [Worker clientId=connect-1, groupId=connect-cluster] Starting connector my-order-sink-connect (org.apache.kafka.connect.runtime.distributed.DistributedHerder:1299)
-[2022-01-07 00:31:12,180] INFO Creating connector my-order-sink-connect of type io.confluent.connect.jdbc.JdbcSinkConnector (org.apache.kafka.connect.runtime.Worker:274)
-[2022-01-07 00:31:12,181] INFO SinkConnectorConfig values: 
-	config.action.reload = restart
-	connector.class = io.confluent.connect.jdbc.JdbcSinkConnector
-	errors.deadletterqueue.context.headers.enable = false
-	errors.deadletterqueue.topic.name = 
-	errors.deadletterqueue.topic.replication.factor = 3
-	errors.log.enable = false
-	errors.log.include.messages = false
-	errors.retry.delay.max.ms = 60000
-	errors.retry.timeout = 0
-	errors.tolerance = none
-	header.converter = null
-	key.converter = null
-	name = my-order-sink-connect
-	predicates = []
-	tasks.max = 1
-	topics = [orders]
-	topics.regex = 
-	transforms = []
-	value.converter = null
- (org.apache.kafka.connect.runtime.SinkConnectorConfig:361)
-[2022-01-07 00:31:12,182] INFO EnrichedConnectorConfig values: 
-	config.action.reload = restart
-	connector.class = io.confluent.connect.jdbc.JdbcSinkConnector
-	errors.deadletterqueue.context.headers.enable = false
-	errors.deadletterqueue.topic.name = 
-	errors.deadletterqueue.topic.replication.factor = 3
-	errors.log.enable = false
-	errors.log.include.messages = false
-	errors.retry.delay.max.ms = 60000
-	errors.retry.timeout = 0
-	errors.tolerance = none
-	header.converter = null
-	key.converter = null
-	name = my-order-sink-connect
-	predicates = []
-	tasks.max = 1
-	topics = [orders]
-	topics.regex = 
-	transforms = []
-	value.converter = null
- (org.apache.kafka.connect.runtime.ConnectorConfig$EnrichedConnectorConfig:361)
-[2022-01-07 00:31:12,184] INFO Instantiated connector my-order-sink-connect with version 10.2.6 of type class io.confluent.connect.jdbc.JdbcSinkConnector (org.apache.kafka.connect.runtime.Worker:284)
-[2022-01-07 00:31:12,185] INFO Finished creating connector my-order-sink-connect (org.apache.kafka.connect.runtime.Worker:310)
-[2022-01-07 00:31:12,185] INFO [Worker clientId=connect-1, groupId=connect-cluster] Finished starting connectors and tasks (org.apache.kafka.connect.runtime.distributed.DistributedHerder:1244)
-[2022-01-07 00:31:12,187] INFO SinkConnectorConfig values: 
-	config.action.reload = restart
-	connector.class = io.confluent.connect.jdbc.JdbcSinkConnector
-	errors.deadletterqueue.context.headers.enable = false
-	errors.deadletterqueue.topic.name = 
-	errors.deadletterqueue.topic.replication.factor = 3
-	errors.log.enable = false
-	errors.log.include.messages = false
-	errors.retry.delay.max.ms = 60000
-	errors.retry.timeout = 0
-	errors.tolerance = none
-	header.converter = null
-	key.converter = null
-	name = my-order-sink-connect
-	predicates = []
-	tasks.max = 1
-	topics = [orders]
-	topics.regex = 
-	transforms = []
-	value.converter = null
- (org.apache.kafka.connect.runtime.SinkConnectorConfig:361)
-[2022-01-07 00:31:12,187] INFO EnrichedConnectorConfig values: 
-	config.action.reload = restart
-	connector.class = io.confluent.connect.jdbc.JdbcSinkConnector
-	errors.deadletterqueue.context.headers.enable = false
-	errors.deadletterqueue.topic.name = 
-	errors.deadletterqueue.topic.replication.factor = 3
-	errors.log.enable = false
-	errors.log.include.messages = false
-	errors.retry.delay.max.ms = 60000
-	errors.retry.timeout = 0
-	errors.tolerance = none
-	header.converter = null
-	key.converter = null
-	name = my-order-sink-connect
-	predicates = []
-	tasks.max = 1
-	topics = [orders]
-	topics.regex = 
-	transforms = []
-	value.converter = null
- (org.apache.kafka.connect.runtime.ConnectorConfig$EnrichedConnectorConfig:361)
-[2022-01-07 00:31:12,187] INFO Setting task configurations for 1 workers. (io.confluent.connect.jdbc.JdbcSinkConnector:44)
-[2022-01-07 00:31:12,677] INFO [Worker clientId=connect-1, groupId=connect-cluster] Tasks [my-order-sink-connect-0] configs updated (org.apache.kafka.connect.runtime.distributed.DistributedHerder:1549)
-[2022-01-07 00:31:12,677] INFO [Worker clientId=connect-1, groupId=connect-cluster] Handling task config update by restarting tasks [] (org.apache.kafka.connect.runtime.distributed.DistributedHerder:647)
-[2022-01-07 00:31:12,678] INFO [Worker clientId=connect-1, groupId=connect-cluster] Rebalance started (org.apache.kafka.connect.runtime.distributed.WorkerCoordinator:225)
-[2022-01-07 00:31:12,678] INFO [Worker clientId=connect-1, groupId=connect-cluster] (Re-)joining group (org.apache.kafka.clients.consumer.internals.AbstractCoordinator:540)
-[2022-01-07 00:31:12,681] INFO [Worker clientId=connect-1, groupId=connect-cluster] Successfully joined group with generation Generation{generationId=7, memberId='connect-1-31e2bc31-6aa5-49cb-82dd-ccf34a08d701', protocol='sessioned'} (org.apache.kafka.clients.consumer.internals.AbstractCoordinator:596)
-[2022-01-07 00:31:12,684] INFO [Worker clientId=connect-1, groupId=connect-cluster] Successfully synced group in generation Generation{generationId=7, memberId='connect-1-31e2bc31-6aa5-49cb-82dd-ccf34a08d701', protocol='sessioned'} (org.apache.kafka.clients.consumer.internals.AbstractCoordinator:756)
-[2022-01-07 00:31:12,685] INFO [Worker clientId=connect-1, groupId=connect-cluster] Joined group at generation 7 with protocol version 2 and got assignment: Assignment{error=0, leader='connect-1-31e2bc31-6aa5-49cb-82dd-ccf34a08d701', leaderUrl='http://127.0.0.1:8083/', offset=20, connectorIds=[my-order-sink-connect, my-sink-connect, my-source-connect], taskIds=[my-order-sink-connect-0, my-sink-connect-0, my-source-connect-0], revokedConnectorIds=[], revokedTaskIds=[], delay=0} with rebalance delay: 0 (org.apache.kafka.connect.runtime.distributed.DistributedHerder:1689)
-[2022-01-07 00:31:12,685] INFO [Worker clientId=connect-1, groupId=connect-cluster] Starting connectors and tasks using config offset 20 (org.apache.kafka.connect.runtime.distributed.DistributedHerder:1216)
-[2022-01-07 00:31:12,686] INFO [Worker clientId=connect-1, groupId=connect-cluster] Starting task my-order-sink-connect-0 (org.apache.kafka.connect.runtime.distributed.DistributedHerder:1258)
-[2022-01-07 00:31:12,686] INFO Creating task my-order-sink-connect-0 (org.apache.kafka.connect.runtime.Worker:509)
-[2022-01-07 00:31:12,688] INFO ConnectorConfig values: 
-	config.action.reload = restart
-	connector.class = io.confluent.connect.jdbc.JdbcSinkConnector
-	errors.log.enable = false
-	errors.log.include.messages = false
-	errors.retry.delay.max.ms = 60000
-	errors.retry.timeout = 0
-	errors.tolerance = none
-	header.converter = null
-	key.converter = null
-	name = my-order-sink-connect
-	predicates = []
-	tasks.max = 1
-	transforms = []
-	value.converter = null
- (org.apache.kafka.connect.runtime.ConnectorConfig:361)
-[2022-01-07 00:31:12,688] INFO EnrichedConnectorConfig values: 
-	config.action.reload = restart
-	connector.class = io.confluent.connect.jdbc.JdbcSinkConnector
-	errors.log.enable = false
-	errors.log.include.messages = false
-	errors.retry.delay.max.ms = 60000
-	errors.retry.timeout = 0
-	errors.tolerance = none
-	header.converter = null
-	key.converter = null
-	name = my-order-sink-connect
-	predicates = []
-	tasks.max = 1
-	transforms = []
-	value.converter = null
- (org.apache.kafka.connect.runtime.ConnectorConfig$EnrichedConnectorConfig:361)
-[2022-01-07 00:31:12,689] INFO TaskConfig values: 
-	task.class = class io.confluent.connect.jdbc.sink.JdbcSinkTask
- (org.apache.kafka.connect.runtime.TaskConfig:361)
-[2022-01-07 00:31:12,689] INFO Instantiated task my-order-sink-connect-0 with version 10.2.6 of type io.confluent.connect.jdbc.sink.JdbcSinkTask (org.apache.kafka.connect.runtime.Worker:524)
-[2022-01-07 00:31:12,691] INFO JsonConverterConfig values: 
-	converter.type = key
-	decimal.format = BASE64
-	schemas.cache.size = 1000
-	schemas.enable = true
- (org.apache.kafka.connect.json.JsonConverterConfig:361)
-[2022-01-07 00:31:12,691] INFO Set up the key converter class org.apache.kafka.connect.json.JsonConverter for task my-order-sink-connect-0 using the worker config (org.apache.kafka.connect.runtime.Worker:537)
-[2022-01-07 00:31:12,692] INFO JsonConverterConfig values: 
-	converter.type = value
-	decimal.format = BASE64
-	schemas.cache.size = 1000
-	schemas.enable = true
- (org.apache.kafka.connect.json.JsonConverterConfig:361)
-[2022-01-07 00:31:12,692] INFO Set up the value converter class org.apache.kafka.connect.json.JsonConverter for task my-order-sink-connect-0 using the worker config (org.apache.kafka.connect.runtime.Worker:543)
-[2022-01-07 00:31:12,692] INFO Set up the header converter class org.apache.kafka.connect.storage.SimpleHeaderConverter for task my-order-sink-connect-0 using the worker config (org.apache.kafka.connect.runtime.Worker:550)
-[2022-01-07 00:31:12,694] INFO Initializing: org.apache.kafka.connect.runtime.TransformationChain{} (org.apache.kafka.connect.runtime.Worker:632)
-[2022-01-07 00:31:12,694] INFO SinkConnectorConfig values: 
-	config.action.reload = restart
-	connector.class = io.confluent.connect.jdbc.JdbcSinkConnector
-	errors.deadletterqueue.context.headers.enable = false
-	errors.deadletterqueue.topic.name = 
-	errors.deadletterqueue.topic.replication.factor = 3
-	errors.log.enable = false
-	errors.log.include.messages = false
-	errors.retry.delay.max.ms = 60000
-	errors.retry.timeout = 0
-	errors.tolerance = none
-	header.converter = null
-	key.converter = null
-	name = my-order-sink-connect
-	predicates = []
-	tasks.max = 1
-	topics = [orders]
-	topics.regex = 
-	transforms = []
-	value.converter = null
- (org.apache.kafka.connect.runtime.SinkConnectorConfig:361)
-[2022-01-07 00:31:12,694] INFO EnrichedConnectorConfig values: 
-	config.action.reload = restart
-	connector.class = io.confluent.connect.jdbc.JdbcSinkConnector
-	errors.deadletterqueue.context.headers.enable = false
-	errors.deadletterqueue.topic.name = 
-	errors.deadletterqueue.topic.replication.factor = 3
-	errors.log.enable = false
-	errors.log.include.messages = false
-	errors.retry.delay.max.ms = 60000
-	errors.retry.timeout = 0
-	errors.tolerance = none
-	header.converter = null
-	key.converter = null
-	name = my-order-sink-connect
-	predicates = []
-	tasks.max = 1
-	topics = [orders]
-	topics.regex = 
-	transforms = []
-	value.converter = null
- (org.apache.kafka.connect.runtime.ConnectorConfig$EnrichedConnectorConfig:361)
-[2022-01-07 00:31:12,695] INFO ConsumerConfig values: 
-	allow.auto.create.topics = true
-	auto.commit.interval.ms = 5000
-	auto.offset.reset = earliest
-	bootstrap.servers = [localhost:9092]
-	check.crcs = true
-	client.dns.lookup = use_all_dns_ips
-	client.id = connector-consumer-my-order-sink-connect-0
-	client.rack = 
-	connections.max.idle.ms = 540000
-	default.api.timeout.ms = 60000
-	enable.auto.commit = false
-	exclude.internal.topics = true
-	fetch.max.bytes = 52428800
-	fetch.max.wait.ms = 500
-	fetch.min.bytes = 1
-	group.id = connect-my-order-sink-connect
-	group.instance.id = null
-	heartbeat.interval.ms = 3000
-	interceptor.classes = []
-	internal.leave.group.on.close = true
-	internal.throw.on.fetch.stable.offset.unsupported = false
-	isolation.level = read_uncommitted
-	key.deserializer = class org.apache.kafka.common.serialization.ByteArrayDeserializer
-	max.partition.fetch.bytes = 1048576
-	max.poll.interval.ms = 300000
-	max.poll.records = 500
-	metadata.max.age.ms = 300000
-	metric.reporters = []
-	metrics.num.samples = 2
-	metrics.recording.level = INFO
-	metrics.sample.window.ms = 30000
-	partition.assignment.strategy = [class org.apache.kafka.clients.consumer.RangeAssignor]
-	receive.buffer.bytes = 65536
-	reconnect.backoff.max.ms = 1000
-	reconnect.backoff.ms = 50
-	request.timeout.ms = 30000
-	retry.backoff.ms = 100
-	sasl.client.callback.handler.class = null
-	sasl.jaas.config = null
-	sasl.kerberos.kinit.cmd = /usr/bin/kinit
-	sasl.kerberos.min.time.before.relogin = 60000
-	sasl.kerberos.service.name = null
-	sasl.kerberos.ticket.renew.jitter = 0.05
-	sasl.kerberos.ticket.renew.window.factor = 0.8
-	sasl.login.callback.handler.class = null
-	sasl.login.class = null
-	sasl.login.refresh.buffer.seconds = 300
-	sasl.login.refresh.min.period.seconds = 60
-	sasl.login.refresh.window.factor = 0.8
-	sasl.login.refresh.window.jitter = 0.05
-	sasl.mechanism = GSSAPI
-	security.protocol = PLAINTEXT
-	security.providers = null
-	send.buffer.bytes = 131072
-	session.timeout.ms = 10000
-	socket.connection.setup.timeout.max.ms = 127000
-	socket.connection.setup.timeout.ms = 10000
-	ssl.cipher.suites = null
-	ssl.enabled.protocols = [TLSv1.2, TLSv1.3]
-	ssl.endpoint.identification.algorithm = https
-	ssl.engine.factory.class = null
-	ssl.key.password = null
-	ssl.keymanager.algorithm = SunX509
-	ssl.keystore.certificate.chain = null
-	ssl.keystore.key = null
-	ssl.keystore.location = null
-	ssl.keystore.password = null
-	ssl.keystore.type = JKS
-	ssl.protocol = TLSv1.3
-	ssl.provider = null
-	ssl.secure.random.implementation = null
-	ssl.trustmanager.algorithm = PKIX
-	ssl.truststore.certificates = null
-	ssl.truststore.location = null
-	ssl.truststore.password = null
-	ssl.truststore.type = JKS
-	value.deserializer = class org.apache.kafka.common.serialization.ByteArrayDeserializer
- (org.apache.kafka.clients.consumer.ConsumerConfig:361)
-[2022-01-07 00:31:12,706] WARN The configuration 'metrics.context.connect.kafka.cluster.id' was supplied but isn't a known config. (org.apache.kafka.clients.consumer.ConsumerConfig:369)
-[2022-01-07 00:31:12,706] WARN The configuration 'metrics.context.connect.group.id' was supplied but isn't a known config. (org.apache.kafka.clients.consumer.ConsumerConfig:369)
-[2022-01-07 00:31:12,706] INFO Kafka version: 6.1.0-ccs (org.apache.kafka.common.utils.AppInfoParser:119)
-[2022-01-07 00:31:12,706] INFO Kafka commitId: 5496d92defc9bbe4 (org.apache.kafka.common.utils.AppInfoParser:120)
-[2022-01-07 00:31:12,706] INFO Kafka startTimeMs: 1641483072706 (org.apache.kafka.common.utils.AppInfoParser:121)
-[2022-01-07 00:31:12,709] INFO [Worker clientId=connect-1, groupId=connect-cluster] Finished starting connectors and tasks (org.apache.kafka.connect.runtime.distributed.DistributedHerder:1244)
-[2022-01-07 00:31:12,709] INFO [Consumer clientId=connector-consumer-my-order-sink-connect-0, groupId=connect-my-order-sink-connect] Subscribed to topic(s): orders (org.apache.kafka.clients.consumer.KafkaConsumer:961)
-[2022-01-07 00:31:12,709] INFO Starting JDBC Sink task (io.confluent.connect.jdbc.sink.JdbcSinkTask:48)
-[2022-01-07 00:31:12,710] INFO JdbcSinkConfig values: 
-	auto.create = true
-	auto.evolve = true
-	batch.size = 3000
-	connection.attempts = 3
-	connection.backoff.ms = 10000
-	connection.password = [hidden]
-	connection.url = jdbc:mysql://localhost:3307/inflearn_spring_cloud
-	connection.user = big
-	db.timezone = UTC
-	delete.enabled = false
-	dialect.name = 
-	fields.whitelist = []
-	insert.mode = insert
-	max.retries = 10
-	pk.fields = []
-	pk.mode = none
-	quote.sql.identifiers = ALWAYS
-	retry.backoff.ms = 3000
-	table.name.format = ${topic}
-	table.types = [TABLE]
- (io.confluent.connect.jdbc.sink.JdbcSinkConfig:361)
-[2022-01-07 00:31:12,710] INFO Initializing writer using SQL dialect: MySqlDatabaseDialect (io.confluent.connect.jdbc.sink.JdbcSinkTask:67)
-[2022-01-07 00:31:12,710] INFO WorkerSinkTask{id=my-order-sink-connect-0} Sink task finished initialization and start (org.apache.kafka.connect.runtime.WorkerSinkTask:309)
-[2022-01-07 00:31:12,805] WARN [Consumer clientId=connector-consumer-my-order-sink-connect-0, groupId=connect-my-order-sink-connect] Error while fetching metadata with correlation id 2 : {orders=LEADER_NOT_AVAILABLE} (org.apache.kafka.clients.NetworkClient:1117)
-[2022-01-07 00:31:12,806] INFO [Consumer clientId=connector-consumer-my-order-sink-connect-0, groupId=connect-my-order-sink-connect] Cluster ID: 72UjNreVRAqSM6a74u5ERg (org.apache.kafka.clients.Metadata:279)
-[2022-01-07 00:31:12,807] INFO [Consumer clientId=connector-consumer-my-order-sink-connect-0, groupId=connect-my-order-sink-connect] Discovered group coordinator localhost:9092 (id: 2147483647 rack: null) (org.apache.kafka.clients.consumer.internals.AbstractCoordinator:847)
-[2022-01-07 00:31:12,808] INFO [Consumer clientId=connector-consumer-my-order-sink-connect-0, groupId=connect-my-order-sink-connect] (Re-)joining group (org.apache.kafka.clients.consumer.internals.AbstractCoordinator:540)
-[2022-01-07 00:31:12,815] INFO [Consumer clientId=connector-consumer-my-order-sink-connect-0, groupId=connect-my-order-sink-connect] (Re-)joining group (org.apache.kafka.clients.consumer.internals.AbstractCoordinator:540)
-[2022-01-07 00:31:12,818] INFO [Consumer clientId=connector-consumer-my-order-sink-connect-0, groupId=connect-my-order-sink-connect] Successfully joined group with generation Generation{generationId=1, memberId='connector-consumer-my-order-sink-connect-0-c6430aaf-c8df-40fe-adaa-a1e5c69c95f2', protocol='range'} (org.apache.kafka.clients.consumer.internals.AbstractCoordinator:596)
-[2022-01-07 00:31:12,910] WARN [Consumer clientId=connector-consumer-my-order-sink-connect-0, groupId=connect-my-order-sink-connect] Error while fetching metadata with correlation id 7 : {orders=LEADER_NOT_AVAILABLE} (org.apache.kafka.clients.NetworkClient:1117)
-[2022-01-07 00:31:12,912] WARN [Consumer clientId=connector-consumer-my-order-sink-connect-0, groupId=connect-my-order-sink-connect] The following subscribed topics are not assigned to any members: [orders]  (org.apache.kafka.clients.consumer.internals.ConsumerCoordinator:611)
-[2022-01-07 00:31:12,912] INFO [Consumer clientId=connector-consumer-my-order-sink-connect-0, groupId=connect-my-order-sink-connect] Finished assignment for group at generation 1: {connector-consumer-my-order-sink-connect-0-c6430aaf-c8df-40fe-adaa-a1e5c69c95f2=Assignment(partitions=[])} (org.apache.kafka.clients.consumer.internals.ConsumerCoordinator:626)
-[2022-01-07 00:31:12,917] INFO [Consumer clientId=connector-consumer-my-order-sink-connect-0, groupId=connect-my-order-sink-connect] Successfully synced group in generation Generation{generationId=1, memberId='connector-consumer-my-order-sink-connect-0-c6430aaf-c8df-40fe-adaa-a1e5c69c95f2', protocol='range'} (org.apache.kafka.clients.consumer.internals.AbstractCoordinator:756)
-[2022-01-07 00:31:12,918] INFO [Consumer clientId=connector-consumer-my-order-sink-connect-0, groupId=connect-my-order-sink-connect] Notifying assignor about the new Assignment(partitions=[]) (org.apache.kafka.clients.consumer.internals.ConsumerCoordinator:276)
-[2022-01-07 00:31:12,918] INFO [Consumer clientId=connector-consumer-my-order-sink-connect-0, groupId=connect-my-order-sink-connect] Adding newly assigned partitions:  (org.apache.kafka.clients.consumer.internals.ConsumerCoordinator:288)
-[2022-01-07 00:31:13,012] INFO [Consumer clientId=connector-consumer-my-order-sink-connect-0, groupId=connect-my-order-sink-connect] Requesting to re-join the group and trigger rebalance since the assignment metadata has changed from (version3: {}) to (version4: {orders=1}) (org.apache.kafka.clients.consumer.internals.ConsumerCoordinator:772)
-[2022-01-07 00:31:13,013] INFO [Consumer clientId=connector-consumer-my-order-sink-connect-0, groupId=connect-my-order-sink-connect] Requesting to re-join the group and trigger rebalance since the assignment metadata has changed from (version3: {}) to (version4: {orders=1}) (org.apache.kafka.clients.consumer.internals.ConsumerCoordinator:772)
-[2022-01-07 00:31:13,017] INFO [Consumer clientId=connector-consumer-my-order-sink-connect-0, groupId=connect-my-order-sink-connect] Revoke previously assigned partitions  (org.apache.kafka.clients.consumer.internals.ConsumerCoordinator:307)
-[2022-01-07 00:31:13,017] INFO [Consumer clientId=connector-consumer-my-order-sink-connect-0, groupId=connect-my-order-sink-connect] (Re-)joining group (org.apache.kafka.clients.consumer.internals.AbstractCoordinator:540)
-[2022-01-07 00:31:13,019] INFO [Consumer clientId=connector-consumer-my-order-sink-connect-0, groupId=connect-my-order-sink-connect] Successfully joined group with generation Generation{generationId=2, memberId='connector-consumer-my-order-sink-connect-0-c6430aaf-c8df-40fe-adaa-a1e5c69c95f2', protocol='range'} (org.apache.kafka.clients.consumer.internals.AbstractCoordinator:596)
-[2022-01-07 00:31:13,019] INFO [Consumer clientId=connector-consumer-my-order-sink-connect-0, groupId=connect-my-order-sink-connect] Finished assignment for group at generation 2: {connector-consumer-my-order-sink-connect-0-c6430aaf-c8df-40fe-adaa-a1e5c69c95f2=Assignment(partitions=[orders-0])} (org.apache.kafka.clients.consumer.internals.ConsumerCoordinator:626)
-[2022-01-07 00:31:13,022] INFO [Consumer clientId=connector-consumer-my-order-sink-connect-0, groupId=connect-my-order-sink-connect] Successfully synced group in generation Generation{generationId=2, memberId='connector-consumer-my-order-sink-connect-0-c6430aaf-c8df-40fe-adaa-a1e5c69c95f2', protocol='range'} (org.apache.kafka.clients.consumer.internals.AbstractCoordinator:756)
-[2022-01-07 00:31:13,022] INFO [Consumer clientId=connector-consumer-my-order-sink-connect-0, groupId=connect-my-order-sink-connect] Notifying assignor about the new Assignment(partitions=[orders-0]) (org.apache.kafka.clients.consumer.internals.ConsumerCoordinator:276)
-[2022-01-07 00:31:13,022] INFO [Consumer clientId=connector-consumer-my-order-sink-connect-0, groupId=connect-my-order-sink-connect] Adding newly assigned partitions: orders-0 (org.apache.kafka.clients.consumer.internals.ConsumerCoordinator:288)
-[2022-01-07 00:31:13,026] INFO [Consumer clientId=connector-consumer-my-order-sink-connect-0, groupId=connect-my-order-sink-connect] Found no committed offset for partition orders-0 (org.apache.kafka.clients.consumer.internals.ConsumerCoordinator:1354)
-[2022-01-07 00:31:13,028] INFO [Consumer clientId=connector-consumer-my-order-sink-connect-0, groupId=connect-my-order-sink-connect] Resetting offset for partition orders-0 to position FetchPosition{offset=0, offsetEpoch=Optional.empty, currentLeader=LeaderAndEpoch{leader=Optional[localhost:9092 (id: 0 rack: null)], epoch=0}}. (org.apache.kafka.clients.consumer.internals.SubscriptionState:396)
-[2022-01-07 00:31:14,300] INFO WorkerSourceTask{id=my-source-connect-0} Committing offsets (org.apache.kafka.connect.runtime.WorkerSourceTask:478)
-[2022-01-07 00:31:14,300] INFO WorkerSourceTask{id=my-source-connect-0} flushing 0 outstanding messages for offset commit (org.apache.kafka.connect.runtime.WorkerSourceTask:495)
-[2022-01-07 00:31:24,302] INFO WorkerSourceTask{id=my-source-connect-0} Committing offsets (org.apache.kafka.connect.runtime.WorkerSourceTask:478)
-[2022-01-07 00:31:24,302] INFO WorkerSourceTask{id=my-source-connect-0} flushing 0 outstanding messages for offset commit (org.apache.kafka.connect.runtime.WorkerSourceTask:495)
-[2022-01-07 00:31:34,306] INFO WorkerSourceTask{id=my-source-connect-0} Committing offsets (org.apache.kafka.connect.runtime.WorkerSourceTask:478)
-[2022-01-07 00:31:34,306] INFO WorkerSourceTask{id=my-source-connect-0} flushing 0 outstanding messages for offset commit (org.apache.kafka.connect.runtime.WorkerSourceTask:495)
-[2022-01-07 00:31:44,310] INFO WorkerSourceTask{id=my-source-connect-0} Committing offsets (org.apache.kafka.connect.runtime.WorkerSourceTask:478)
-[2022-01-07 00:31:44,311] INFO WorkerSourceTask{id=my-source-connect-0} flushing 0 outstanding messages for offset commit (org.apache.kafka.connect.runtime.WorkerSourceTask:495)
-[2022-01-07 00:31:54,314] INFO WorkerSourceTask{id=my-source-connect-0} Committing offsets (org.apache.kafka.connect.runtime.WorkerSourceTask:478)
-[2022-01-07 00:31:54,315] INFO WorkerSourceTask{id=my-source-connect-0} flushing 0 outstanding messages for offset commit (org.apache.kafka.connect.runtime.WorkerSourceTask:495)
-[2022-01-07 00:32:04,319] INFO WorkerSourceTask{id=my-source-connect-0} Committing offsets (org.apache.kafka.connect.runtime.WorkerSourceTask:478)
-[2022-01-07 00:32:04,320] INFO WorkerSourceTask{id=my-source-connect-0} flushing 0 outstanding messages for offset commit (org.apache.kafka.connect.runtime.WorkerSourceTask:495)
-[2022-01-07 00:32:14,323] INFO WorkerSourceTask{id=my-source-connect-0} Committing offsets (org.apache.kafka.connect.runtime.WorkerSourceTask:478)
-[2022-01-07 00:32:14,324] INFO WorkerSourceTask{id=my-source-connect-0} flushing 0 outstanding messages for offset commit (org.apache.kafka.connect.runtime.WorkerSourceTask:495)
-[2022-01-07 00:32:24,328] INFO WorkerSourceTask{id=my-source-connect-0} Committing offsets (org.apache.kafka.connect.runtime.WorkerSourceTask:478)
-[2022-01-07 00:32:24,328] INFO WorkerSourceTask{id=my-source-connect-0} flushing 0 outstanding messages for offset commit (org.apache.kafka.connect.runtime.WorkerSourceTask:495)
-[2022-01-07 00:32:34,331] INFO WorkerSourceTask{id=my-source-connect-0} Committing offsets (org.apache.kafka.connect.runtime.WorkerSourceTask:478)
-[2022-01-07 00:32:34,331] INFO WorkerSourceTask{id=my-source-connect-0} flushing 0 outstanding messages for offset commit (org.apache.kafka.connect.runtime.WorkerSourceTask:495)
+[2022-01-07 23:00:08,839] INFO WorkerSourceTask{id=my-source-connect-0} Committing offsets (org.apache.kafka.connect.runtime.WorkerSourceTask:478)
+[2022-01-07 23:00:08,863] INFO WorkerSourceTask{id=my-source-connect-0} flushing 0 outstanding messages for offset commit (org.apache.kafka.connect.runtime.WorkerSourceTask:495)
+[2022-01-07 23:00:18,865] INFO WorkerSourceTask{id=my-source-connect-0} Committing offsets (org.apache.kafka.connect.runtime.WorkerSourceTask:478)
+[2022-01-07 23:00:18,866] INFO WorkerSourceTask{id=my-source-connect-0} flushing 0 outstanding messages for offset commit (org.apache.kafka.connect.runtime.WorkerSourceTask:495)
+[2022-01-07 23:00:28,869] INFO WorkerSourceTask{id=my-source-connect-0} Committing offsets (org.apache.kafka.connect.runtime.WorkerSourceTask:478)
+[2022-01-07 23:00:28,869] INFO WorkerSourceTask{id=my-source-connect-0} flushing 0 outstanding messages for offset commit (org.apache.kafka.connect.runtime.WorkerSourceTask:495)
+[2022-01-07 23:00:38,874] INFO WorkerSourceTask{id=my-source-connect-0} Committing offsets (org.apache.kafka.connect.runtime.WorkerSourceTask:478)
+[2022-01-07 23:00:38,874] INFO WorkerSourceTask{id=my-source-connect-0} flushing 0 outstanding messages for offset commit (org.apache.kafka.connect.runtime.WorkerSourceTask:495)
+[2022-01-07 23:00:48,878] INFO WorkerSourceTask{id=my-source-connect-0} Committing offsets (org.apache.kafka.connect.runtime.WorkerSourceTask:478)
+[2022-01-07 23:00:48,879] INFO WorkerSourceTask{id=my-source-connect-0} flushing 0 outstanding messages for offset commit (org.apache.kafka.connect.runtime.WorkerSourceTask:495)
+[2022-01-07 23:00:58,882] INFO WorkerSourceTask{id=my-source-connect-0} Committing offsets (org.apache.kafka.connect.runtime.WorkerSourceTask:478)
+[2022-01-07 23:00:58,882] INFO WorkerSourceTask{id=my-source-connect-0} flushing 0 outstanding messages for offset commit (org.apache.kafka.connect.runtime.WorkerSourceTask:495)
+[2022-01-07 23:01:08,885] INFO WorkerSourceTask{id=my-source-connect-0} Committing offsets (org.apache.kafka.connect.runtime.WorkerSourceTask:478)
+[2022-01-07 23:01:08,886] INFO WorkerSourceTask{id=my-source-connect-0} flushing 0 outstanding messages for offset commit (org.apache.kafka.connect.runtime.WorkerSourceTask:495)
+[2022-01-07 23:01:18,890] INFO WorkerSourceTask{id=my-source-connect-0} Committing offsets (org.apache.kafka.connect.runtime.WorkerSourceTask:478)
+[2022-01-07 23:01:18,891] INFO WorkerSourceTask{id=my-source-connect-0} flushing 0 outstanding messages for offset commit (org.apache.kafka.connect.runtime.WorkerSourceTask:495)
+[2022-01-07 23:01:28,896] INFO WorkerSourceTask{id=my-source-connect-0} Committing offsets (org.apache.kafka.connect.runtime.WorkerSourceTask:478)
+[2022-01-07 23:01:28,896] INFO WorkerSourceTask{id=my-source-connect-0} flushing 0 outstanding messages for offset commit (org.apache.kafka.connect.runtime.WorkerSourceTask:495)
+[2022-01-07 23:01:38,901] INFO WorkerSourceTask{id=my-source-connect-0} Committing offsets (org.apache.kafka.connect.runtime.WorkerSourceTask:478)
+[2022-01-07 23:01:38,902] INFO WorkerSourceTask{id=my-source-connect-0} flushing 0 outstanding messages for offset commit (org.apache.kafka.connect.runtime.WorkerSourceTask:495)
+[2022-01-07 23:01:48,907] INFO WorkerSourceTask{id=my-source-connect-0} Committing offsets (org.apache.kafka.connect.runtime.WorkerSourceTask:478)
+[2022-01-07 23:01:48,952] INFO WorkerSourceTask{id=my-source-connect-0} flushing 0 outstanding messages for offset commit (org.apache.kafka.connect.runtime.WorkerSourceTask:495)
+[2022-01-07 23:01:58,953] INFO WorkerSourceTask{id=my-source-connect-0} Committing offsets (org.apache.kafka.connect.runtime.WorkerSourceTask:478)
+[2022-01-07 23:01:58,960] INFO WorkerSourceTask{id=my-source-connect-0} flushing 0 outstanding messages for offset commit (org.apache.kafka.connect.runtime.WorkerSourceTask:495)
+[2022-01-07 23:02:08,963] INFO WorkerSourceTask{id=my-source-connect-0} Committing offsets (org.apache.kafka.connect.runtime.WorkerSourceTask:478)
+[2022-01-07 23:02:08,964] INFO WorkerSourceTask{id=my-source-connect-0} flushing 0 outstanding messages for offset commit (org.apache.kafka.connect.runtime.WorkerSourceTask:495)
+[2022-01-07 23:02:18,968] INFO WorkerSourceTask{id=my-source-connect-0} Committing offsets (org.apache.kafka.connect.runtime.WorkerSourceTask:478)
+[2022-01-07 23:02:18,968] INFO WorkerSourceTask{id=my-source-connect-0} flushing 0 outstanding messages for offset commit (org.apache.kafka.connect.runtime.WorkerSourceTask:495)
+[2022-01-07 23:02:28,974] INFO WorkerSourceTask{id=my-source-connect-0} Committing offsets (org.apache.kafka.connect.runtime.WorkerSourceTask:478)
+[2022-01-07 23:02:28,974] INFO WorkerSourceTask{id=my-source-connect-0} flushing 0 outstanding messages for offset commit (org.apache.kafka.connect.runtime.WorkerSourceTask:495)
+[2022-01-07 23:02:30,977] INFO [Worker clientId=connect-1, groupId=connect-cluster] Group coordinator localhost:9092 (id: 2147483647 rack: null) is unavailable or invalid due to cause: coordinator unavailable.isDisconnected: true. Rediscovery will be attempted. (org.apache.kafka.clients.consumer.internals.AbstractCoordinator:904)
+[2022-01-07 23:02:30,982] INFO [Consumer clientId=consumer-connect-cluster-1, groupId=connect-cluster] Error sending fetch request (sessionId=1689149229, epoch=157734) to node 0: (org.apache.kafka.clients.FetchSessionHandler:481)
+org.apache.kafka.common.errors.DisconnectException
+[2022-01-07 23:02:30,994] INFO [Consumer clientId=connector-consumer-my-sink-connect-0, groupId=connect-my-sink-connect] Error sending fetch request (sessionId=53049554, epoch=157737) to node 0: (org.apache.kafka.clients.FetchSessionHandler:481)
+org.apache.kafka.common.errors.DisconnectException
+[2022-01-07 23:02:30,992] INFO [Consumer clientId=connector-consumer-my-order-sink-connect-0, groupId=connect-my-order-sink-connect] Error sending fetch request (sessionId=1983275172, epoch=157073) to node 0: (org.apache.kafka.clients.FetchSessionHandler:481)
+org.apache.kafka.common.errors.DisconnectException
+[2022-01-07 23:02:30,982] INFO [Consumer clientId=consumer-connect-cluster-3, groupId=connect-cluster] Error sending fetch request (sessionId=922941044, epoch=157770) to node 0: (org.apache.kafka.clients.FetchSessionHandler:481)
+org.apache.kafka.common.errors.DisconnectException
+[2022-01-07 23:02:30,982] INFO [Consumer clientId=consumer-connect-cluster-2, groupId=connect-cluster] Error sending fetch request (sessionId=422209500, epoch=157759) to node 0: (org.apache.kafka.clients.FetchSessionHandler:481)
+org.apache.kafka.common.errors.DisconnectException
+[2022-01-07 23:02:30,997] INFO [Consumer clientId=connector-consumer-my-order-sink-connect-0, groupId=connect-my-order-sink-connect] Group coordinator localhost:9092 (id: 2147483647 rack: null) is unavailable or invalid due to cause: coordinator unavailable.isDisconnected: true. Rediscovery will be attempted. (org.apache.kafka.clients.consumer.internals.AbstractCoordinator:904)
+[2022-01-07 23:02:31,060] WARN [Consumer clientId=consumer-connect-cluster-3, groupId=connect-cluster] Connection to node 0 (localhost/127.0.0.1:9092) could not be established. Broker may not be available. (org.apache.kafka.clients.NetworkClient:780)
+[2022-01-07 23:02:31,060] WARN [Consumer clientId=consumer-connect-cluster-1, groupId=connect-cluster] Connection to node 0 (localhost/127.0.0.1:9092) could not be established. Broker may not be available. (org.apache.kafka.clients.NetworkClient:780)
+[2022-01-07 23:02:31,060] WARN [Producer clientId=producer-1] Connection to node 0 (localhost/127.0.0.1:9092) could not be established. Broker may not be available. (org.apache.kafka.clients.NetworkClient:780)
+[2022-01-07 23:02:31,060] WARN [Producer clientId=producer-2] Connection to node 0 (localhost/127.0.0.1:9092) could not be established. Broker may not be available. (org.apache.kafka.clients.NetworkClient:780)
+[2022-01-07 23:02:31,060] WARN [Producer clientId=connector-producer-my-source-connect-0] Connection to node 0 (localhost/127.0.0.1:9092) could not be established. Broker may not be available. (org.apache.kafka.clients.NetworkClient:780)
+[2022-01-07 23:02:31,060] WARN [Producer clientId=producer-3] Connection to node 0 (localhost/127.0.0.1:9092) could not be established. Broker may not be available. (org.apache.kafka.clients.NetworkClient:780)
+[2022-01-07 23:02:31,060] WARN [Consumer clientId=consumer-connect-cluster-2, groupId=connect-cluster] Connection to node 0 (localhost/127.0.0.1:9092) could not be established. Broker may not be available. (org.apache.kafka.clients.NetworkClient:780)
+[2022-01-07 23:02:31,094] WARN [Consumer clientId=connector-consumer-my-order-sink-connect-0, groupId=connect-my-order-sink-connect] Connection to node 0 (localhost/127.0.0.1:9092) could not be established. Broker may not be available. (org.apache.kafka.clients.NetworkClient:780)
+[2022-01-07 23:02:31,095] WARN [Worker clientId=connect-1, groupId=connect-cluster] Connection to node 0 (localhost/127.0.0.1:9092) could not be established. Broker may not be available. (org.apache.kafka.clients.NetworkClient:780)
+[2022-01-07 23:02:31,095] WARN [Consumer clientId=connector-consumer-my-sink-connect-0, groupId=connect-my-sink-connect] Connection to node 0 (localhost/127.0.0.1:9092) could not be established. Broker may not be available. (org.apache.kafka.clients.NetworkClient:780)
+[2022-01-07 23:02:31,098] INFO [Consumer clientId=connector-consumer-my-sink-connect-0, groupId=connect-my-sink-connect] Error sending fetch request (sessionId=53049554, epoch=INITIAL) to node 0: (org.apache.kafka.clients.FetchSessionHandler:481)
+org.apache.kafka.common.errors.DisconnectException
+[2022-01-07 23:02:31,161] WARN [Producer clientId=producer-3] Connection to node 0 (localhost/127.0.0.1:9092) could not be established. Broker may not be available. (org.apache.kafka.clients.NetworkClient:780)
+[2022-01-07 23:02:31,193] WARN [Consumer clientId=connector-consumer-my-order-sink-connect-0, groupId=connect-my-order-sink-connect] Connection to node 0 (localhost/127.0.0.1:9092) could not be established. Broker may not be available. (org.apache.kafka.clients.NetworkClient:780)
+[2022-01-07 23:02:31,211] WARN [Producer clientId=producer-1] Connection to node 0 (localhost/127.0.0.1:9092) could not be established. Broker may not be available. (org.apache.kafka.clients.NetworkClient:780)
+[2022-01-07 23:02:31,211] WARN [Consumer clientId=consumer-connect-cluster-2, groupId=connect-cluster] Connection to node 0 (localhost/127.0.0.1:9092) could not be established. Broker may not be available. (org.apache.kafka.clients.NetworkClient:780)
+[2022-01-07 23:02:31,211] WARN [Producer clientId=producer-2] Connection to node 0 (localhost/127.0.0.1:9092) could not be established. Broker may not be available. (org.apache.kafka.clients.NetworkClient:780)
+[2022-01-07 23:02:31,211] WARN [Producer clientId=connector-producer-my-source-connect-0] Connection to node 0 (localhost/127.0.0.1:9092) could not be established. Broker may not be available. (org.apache.kafka.clients.NetworkClient:780)
+[2022-01-07 23:02:31,211] WARN [Consumer clientId=consumer-connect-cluster-1, groupId=connect-cluster] Connection to node 0 (localhost/127.0.0.1:9092) could not be established. Broker may not be available. (org.apache.kafka.clients.NetworkClient:780)
+[2022-01-07 23:02:31,211] WARN [Consumer clientId=consumer-connect-cluster-3, groupId=connect-cluster] Connection to node 0 (localhost/127.0.0.1:9092) could not be established. Broker may not be available. (org.apache.kafka.clients.NetworkClient:780)
+[2022-01-07 23:02:31,248] WARN [Consumer clientId=connector-consumer-my-sink-connect-0, groupId=connect-my-sink-connect] Connection to node 0 (localhost/127.0.0.1:9092) could not be established. Broker may not be available. (org.apache.kafka.clients.NetworkClient:780)
+[2022-01-07 23:02:31,248] WARN [Worker clientId=connect-1, groupId=connect-cluster] Connection to node 0 (localhost/127.0.0.1:9092) could not be established. Broker may not be available. (org.apache.kafka.clients.NetworkClient:780)
+[2022-01-07 23:02:31,249] INFO [Consumer clientId=connector-consumer-my-sink-connect-0, groupId=connect-my-sink-connect] Error sending fetch request (sessionId=53049554, epoch=INITIAL) to node 0: (org.apache.kafka.clients.FetchSessionHandler:481)
+org.apache.kafka.common.errors.DisconnectException
+[2022-01-07 23:02:31,395] WARN [Consumer clientId=connector-consumer-my-order-sink-connect-0, groupId=connect-my-order-sink-connect] Connection to node 0 (localhost/127.0.0.1:9092) could not be established. Broker may not be available. (org.apache.kafka.clients.NetworkClient:780)
+[2022-01-07 23:02:31,412] WARN [Producer clientId=connector-producer-my-source-connect-0] Connection to node 0 (localhost/127.0.0.1:9092) could not be established. Broker may not be available. (org.apache.kafka.clients.NetworkClient:780)
+[2022-01-07 23:02:31,412] WARN [Consumer clientId=consumer-connect-cluster-1, groupId=connect-cluster] Connection to node 0 (localhost/127.0.0.1:9092) could not be established. Broker may not be available. (org.apache.kafka.clients.NetworkClient:780)
+[2022-01-07 23:02:31,412] WARN [Producer clientId=producer-3] Connection to node 0 (localhost/127.0.0.1:9092) could not be established. Broker may not be available. (org.apache.kafka.clients.NetworkClient:780)
+[2022-01-07 23:02:31,412] WARN [Producer clientId=producer-2] Connection to node 0 (localhost/127.0.0.1:9092) could not be established. Broker may not be available. (org.apache.kafka.clients.NetworkClient:780)
+[2022-01-07 23:02:31,450] WARN [Worker clientId=connect-1, groupId=connect-cluster] Connection to node 0 (localhost/127.0.0.1:9092) could not be established. Broker may not be available. (org.apache.kafka.clients.NetworkClient:780)
+[2022-01-07 23:02:31,462] WARN [Producer clientId=producer-1] Connection to node 0 (localhost/127.0.0.1:9092) could not be established. Broker may not be available. (org.apache.kafka.clients.NetworkClient:780)
+[2022-01-07 23:02:31,462] WARN [Consumer clientId=consumer-connect-cluster-2, groupId=connect-cluster] Connection to node 0 (localhost/127.0.0.1:9092) could not be established. Broker may not be available. (org.apache.kafka.clients.NetworkClient:780)
+[2022-01-07 23:02:31,463] WARN [Consumer clientId=consumer-connect-cluster-3, groupId=connect-cluster] Connection to node 0 (localhost/127.0.0.1:9092) could not be established. Broker may not be available. (org.apache.kafka.clients.NetworkClient:780)
+[2022-01-07 23:02:31,502] WARN [Consumer clientId=connector-consumer-my-sink-connect-0, groupId=connect-my-sink-connect] Connection to node 0 (localhost/127.0.0.1:9092) could not be established. Broker may not be available. (org.apache.kafka.clients.NetworkClient:780)
+[2022-01-07 23:02:31,502] INFO [Consumer clientId=connector-consumer-my-sink-connect-0, groupId=connect-my-sink-connect] Error sending fetch request (sessionId=53049554, epoch=INITIAL) to node 0: (org.apache.kafka.clients.FetchSessionHandler:481)
+org.apache.kafka.common.errors.DisconnectException
+[2022-01-07 23:02:31,801] WARN [Consumer clientId=connector-consumer-my-order-sink-connect-0, groupId=connect-my-order-sink-connect] Connection to node 0 (localhost/127.0.0.1:9092) could not be established. Broker may not be available. (org.apache.kafka.clients.NetworkClient:780)
+[2022-01-07 23:02:31,805] WARN [Worker clientId=connect-1, groupId=connect-cluster] Connection to node 0 (localhost/127.0.0.1:9092) could not be established. Broker may not be available. (org.apache.kafka.clients.NetworkClient:780)
+[2022-01-07 23:02:31,842] WARN [Consumer clientId=connector-consumer-my-sink-connect-0, groupId=connect-my-sink-connect] Connection to node 2147483647 (localhost/127.0.0.1:9092) could not be established. Broker may not be available. (org.apache.kafka.clients.NetworkClient:780)
+[2022-01-07 23:02:31,848] INFO [Consumer clientId=connector-consumer-my-sink-connect-0, groupId=connect-my-sink-connect] Group coordinator localhost:9092 (id: 2147483647 rack: null) is unavailable or invalid due to cause: null.isDisconnected: true. Rediscovery will be attempted. (org.apache.kafka.clients.consumer.internals.AbstractCoordinator:904)
+[2022-01-07 23:02:31,870] WARN [Consumer clientId=consumer-connect-cluster-3, groupId=connect-cluster] Connection to node 0 (localhost/127.0.0.1:9092) could not be established. Broker may not be available. (org.apache.kafka.clients.NetworkClient:780)
+[2022-01-07 23:02:31,870] WARN [Producer clientId=producer-3] Connection to node 0 (localhost/127.0.0.1:9092) could not be established. Broker may not be available. (org.apache.kafka.clients.NetworkClient:780)
+[2022-01-07 23:02:31,870] WARN [Producer clientId=connector-producer-my-source-connect-0] Connection to node 0 (localhost/127.0.0.1:9092) could not be established. Broker may not be available. (org.apache.kafka.clients.NetworkClient:780)
+[2022-01-07 23:02:31,870] WARN [Consumer clientId=consumer-connect-cluster-2, groupId=connect-cluster] Connection to node 0 (localhost/127.0.0.1:9092) could not be established. Broker may not be available. (org.apache.kafka.clients.NetworkClient:780)
+[2022-01-07 23:02:31,870] WARN [Producer clientId=producer-2] Connection to node 0 (localhost/127.0.0.1:9092) could not be established. Broker may not be available. (org.apache.kafka.clients.NetworkClient:780)
+[2022-01-07 23:02:31,870] WARN [Consumer clientId=consumer-connect-cluster-1, groupId=connect-cluster] Connection to node 0 (localhost/127.0.0.1:9092) could not be established. Broker may not be available. (org.apache.kafka.clients.NetworkClient:780)
+[2022-01-07 23:02:31,922] WARN [Producer clientId=producer-1] Connection to node 0 (localhost/127.0.0.1:9092) could not be established. Broker may not be available. (org.apache.kafka.clients.NetworkClient:780)
+[2022-01-07 23:02:31,994] WARN [Consumer clientId=connector-consumer-my-sink-connect-0, groupId=connect-my-sink-connect] Connection to node 0 (localhost/127.0.0.1:9092) could not be established. Broker may not be available. (org.apache.kafka.clients.NetworkClient:780)
+[2022-01-07 23:02:32,459] WARN [Consumer clientId=connector-consumer-my-order-sink-connect-0, groupId=connect-my-order-sink-connect] Connection to node 0 (localhost/127.0.0.1:9092) could not be established. Broker may not be available. (org.apache.kafka.clients.NetworkClient:780)
+[2022-01-07 23:02:32,529] WARN [Consumer clientId=consumer-connect-cluster-2, groupId=connect-cluster] Connection to node 0 (localhost/127.0.0.1:9092) could not be established. Broker may not be available. (org.apache.kafka.clients.NetworkClient:780)
+[2022-01-07 23:02:32,579] WARN [Producer clientId=producer-1] Connection to node 0 (localhost/127.0.0.1:9092) could not be established. Broker may not be available. (org.apache.kafka.clients.NetworkClient:780)
+[2022-01-07 23:02:32,629] WARN [Consumer clientId=consumer-connect-cluster-1, groupId=connect-cluster] Connection to node 0 (localhost/127.0.0.1:9092) could not be established. Broker may not be available. (org.apache.kafka.clients.NetworkClient:780)
+[2022-01-07 23:02:32,666] WARN [Worker clientId=connect-1, groupId=connect-cluster] Connection to node 0 (localhost/127.0.0.1:9092) could not be established. Broker may not be available. (org.apache.kafka.clients.NetworkClient:780)
+[2022-01-07 23:02:32,730] WARN [Consumer clientId=consumer-connect-cluster-3, groupId=connect-cluster] Connection to node 0 (localhost/127.0.0.1:9092) could not be established. Broker may not be available. (org.apache.kafka.clients.NetworkClient:780)
+[2022-01-07 23:02:32,781] WARN [Producer clientId=connector-producer-my-source-connect-0] Connection to node 0 (localhost/127.0.0.1:9092) could not be established. Broker may not be available. (org.apache.kafka.clients.NetworkClient:780)
+[2022-01-07 23:02:32,782] WARN [Producer clientId=producer-2] Connection to node 0 (localhost/127.0.0.1:9092) could not be established. Broker may not be available. (org.apache.kafka.clients.NetworkClient:780)
+[2022-01-07 23:02:32,781] WARN [Producer clientId=producer-3] Connection to node 0 (localhost/127.0.0.1:9092) could not be established. Broker may not be available. (org.apache.kafka.clients.NetworkClient:780)
+[2022-01-07 23:02:32,920] WARN [Consumer clientId=connector-consumer-my-sink-connect-0, groupId=connect-my-sink-connect] Connection to node 0 (localhost/127.0.0.1:9092) could not be established. Broker may not be available. (org.apache.kafka.clients.NetworkClient:780)
+[2022-01-07 23:02:33,321] WARN [Consumer clientId=connector-consumer-my-order-sink-connect-0, groupId=connect-my-order-sink-connect] Connection to node 0 (localhost/127.0.0.1:9092) could not be established. Broker may not be available. (org.apache.kafka.clients.NetworkClient:780)
+[2022-01-07 23:02:33,491] WARN [Consumer clientId=consumer-connect-cluster-2, groupId=connect-cluster] Connection to node 0 (localhost/127.0.0.1:9092) could not be established. Broker may not be available. (org.apache.kafka.clients.NetworkClient:780)
+[2022-01-07 23:02:33,529] WARN [Worker clientId=connect-1, groupId=connect-cluster] Connection to node 0 (localhost/127.0.0.1:9092) could not be established. Broker may not be available. (org.apache.kafka.clients.NetworkClient:780)
+[2022-01-07 23:02:33,593] WARN [Producer clientId=producer-1] Connection to node 0 (localhost/127.0.0.1:9092) could not be established. Broker may not be available. (org.apache.kafka.clients.NetworkClient:780)
+[2022-01-07 23:02:33,642] WARN [Producer clientId=connector-producer-my-source-connect-0] Connection to node 0 (localhost/127.0.0.1:9092) could not be established. Broker may not be available. (org.apache.kafka.clients.NetworkClient:780)
+[2022-01-07 23:02:33,642] WARN [Consumer clientId=consumer-connect-cluster-3, groupId=connect-cluster] Connection to node 0 (localhost/127.0.0.1:9092) could not be established. Broker may not be available. (org.apache.kafka.clients.NetworkClient:780)
+[2022-01-07 23:02:33,694] WARN [Consumer clientId=consumer-connect-cluster-1, groupId=connect-cluster] Connection to node 0 (localhost/127.0.0.1:9092) could not be established. Broker may not be available. (org.apache.kafka.clients.NetworkClient:780)
+[2022-01-07 23:02:33,845] WARN [Producer clientId=producer-2] Connection to node 0 (localhost/127.0.0.1:9092) could not be established. Broker may not be available. (org.apache.kafka.clients.NetworkClient:780)
+[2022-01-07 23:02:33,946] WARN [Producer clientId=producer-3] Connection to node 0 (localhost/127.0.0.1:9092) could not be established. Broker may not be available. (org.apache.kafka.clients.NetworkClient:780)
+[2022-01-07 23:02:33,984] INFO [Worker clientId=connect-1, groupId=connect-cluster] Broker coordinator was unreachable for 3000ms. Revoking previous assignment Assignment{error=0, leader='connect-1-4840f7ed-5143-4bba-80d6-b507d97545fc', leaderUrl='http://127.0.0.1:8083/', offset=47, connectorIds=[my-order-sink-connect, my-sink-connect, my-source-connect], taskIds=[my-order-sink-connect-0, my-sink-connect-0, my-source-connect-0], revokedConnectorIds=[], revokedTaskIds=[], delay=0} to avoid running tasks while not being a member the group (org.apache.kafka.connect.runtime.distributed.WorkerCoordinator:139)
+[2022-01-07 23:02:34,018] INFO Stopping connector my-sink-connect (org.apache.kafka.connect.runtime.Worker:387)
+[2022-01-07 23:02:34,019] INFO Stopping task my-source-connect-0 (org.apache.kafka.connect.runtime.Worker:836)
+[2022-01-07 23:02:34,019] INFO Stopping task my-sink-connect-0 (org.apache.kafka.connect.runtime.Worker:836)
+[2022-01-07 23:02:34,019] INFO Stopping task my-order-sink-connect-0 (org.apache.kafka.connect.runtime.Worker:836)
+[2022-01-07 23:02:34,019] INFO Stopping connector my-source-connect (org.apache.kafka.connect.runtime.Worker:387)
+[2022-01-07 23:02:34,042] INFO Scheduled shutdown for WorkerConnector{id=my-source-connect} (org.apache.kafka.connect.runtime.WorkerConnector:249)
+[2022-01-07 23:02:34,018] INFO Stopping connector my-order-sink-connect (org.apache.kafka.connect.runtime.Worker:387)
+[2022-01-07 23:02:34,047] INFO Stopping table monitoring thread (io.confluent.connect.jdbc.JdbcSourceConnector:182)
+[2022-01-07 23:02:34,046] INFO Stopping task (io.confluent.connect.jdbc.sink.JdbcSinkTask:161)
+[2022-01-07 23:02:34,046] INFO Stopping task (io.confluent.connect.jdbc.sink.JdbcSinkTask:161)
+[2022-01-07 23:02:34,027] INFO Stopping JDBC source task (io.confluent.connect.jdbc.source.JdbcSourceTask:320)
+[2022-01-07 23:02:34,025] INFO Scheduled shutdown for WorkerConnector{id=my-sink-connect} (org.apache.kafka.connect.runtime.WorkerConnector:249)
+[2022-01-07 23:02:34,089] INFO Closing connection #1 to MySql (io.confluent.connect.jdbc.util.CachedConnectionProvider:105)
+[2022-01-07 23:02:34,075] INFO [Consumer clientId=connector-consumer-my-sink-connect-0, groupId=connect-my-sink-connect] Revoke previously assigned partitions my_topic_users-0 (org.apache.kafka.clients.consumer.internals.ConsumerCoordinator:307)
+[2022-01-07 23:02:34,069] INFO Shutting down thread monitoring tables. (io.confluent.connect.jdbc.source.TableMonitorThread:149)
+[2022-01-07 23:02:34,069] INFO Scheduled shutdown for WorkerConnector{id=my-order-sink-connect} (org.apache.kafka.connect.runtime.WorkerConnector:249)
+[2022-01-07 23:02:34,113] INFO [Consumer clientId=connector-consumer-my-order-sink-connect-0, groupId=connect-my-order-sink-connect] Revoke previously assigned partitions orders-0 (org.apache.kafka.clients.consumer.internals.ConsumerCoordinator:307)
+[2022-01-07 23:02:34,126] INFO Metrics scheduler closed (org.apache.kafka.common.metrics.Metrics:668)
+[2022-01-07 23:02:34,128] INFO Closing reporter org.apache.kafka.common.metrics.JmxReporter (org.apache.kafka.common.metrics.Metrics:672)
+[2022-01-07 23:02:34,132] INFO Metrics reporters closed (org.apache.kafka.common.metrics.Metrics:678)
+[2022-01-07 23:02:34,140] INFO Closing resources for JDBC source task (io.confluent.connect.jdbc.source.JdbcSourceTask:332)
+[2022-01-07 23:02:34,132] INFO Metrics scheduler closed (org.apache.kafka.common.metrics.Metrics:668)
+[2022-01-07 23:02:34,150] INFO Closing connection #5 to MySql (io.confluent.connect.jdbc.util.CachedConnectionProvider:105)
+[2022-01-07 23:02:34,150] INFO Closing reporter org.apache.kafka.common.metrics.JmxReporter (org.apache.kafka.common.metrics.Metrics:672)
+[2022-01-07 23:02:34,151] INFO Metrics reporters closed (org.apache.kafka.common.metrics.Metrics:678)
+[2022-01-07 23:02:34,160] INFO App info kafka.consumer for connector-consumer-my-sink-connect-0 unregistered (org.apache.kafka.common.utils.AppInfoParser:83)
+[2022-01-07 23:02:34,153] INFO WorkerSourceTask{id=my-source-connect-0} Committing offsets (org.apache.kafka.connect.runtime.WorkerSourceTask:478)
+[2022-01-07 23:02:34,169] INFO WorkerSourceTask{id=my-source-connect-0} flushing 0 outstanding messages for offset commit (org.apache.kafka.connect.runtime.WorkerSourceTask:495)
+[2022-01-07 23:02:34,170] INFO [Producer clientId=connector-producer-my-source-connect-0] Closing the Kafka producer with timeoutMillis = 30000 ms. (org.apache.kafka.clients.producer.KafkaProducer:1205)
+[2022-01-07 23:02:34,174] INFO App info kafka.consumer for connector-consumer-my-order-sink-connect-0 unregistered (org.apache.kafka.common.utils.AppInfoParser:83)
+[2022-01-07 23:02:34,192] INFO Metrics scheduler closed (org.apache.kafka.common.metrics.Metrics:668)
+[2022-01-07 23:02:34,208] INFO Closing reporter org.apache.kafka.common.metrics.JmxReporter (org.apache.kafka.common.metrics.Metrics:672)
+[2022-01-07 23:02:34,209] INFO Metrics reporters closed (org.apache.kafka.common.metrics.Metrics:678)
+[2022-01-07 23:02:34,210] INFO App info kafka.producer for connector-producer-my-source-connect-0 unregistered (org.apache.kafka.common.utils.AppInfoParser:83)
+[2022-01-07 23:02:34,556] WARN [Consumer clientId=consumer-connect-cluster-1, groupId=connect-cluster] Connection to node 0 (localhost/127.0.0.1:9092) could not be established. Broker may not be available. (org.apache.kafka.clients.NetworkClient:780)
+[2022-01-07 23:02:34,603] WARN [Consumer clientId=consumer-connect-cluster-3, groupId=connect-cluster] Connection to node 0 (localhost/127.0.0.1:9092) could not be established. Broker may not be available. (org.apache.kafka.clients.NetworkClient:780)
+[2022-01-07 23:02:34,654] WARN [Consumer clientId=consumer-connect-cluster-2, groupId=connect-cluster] Connection to node 0 (localhost/127.0.0.1:9092) could not be established. Broker may not be available. (org.apache.kafka.clients.NetworkClient:780)
+[2022-01-07 23:02:34,708] WARN [Worker clientId=connect-1, groupId=connect-cluster] Connection to node 0 (localhost/127.0.0.1:9092) could not be established. Broker may not be available. (org.apache.kafka.clients.NetworkClient:780)
+[2022-01-07 23:02:34,760] WARN [Producer clientId=producer-1] Connection to node 0 (localhost/127.0.0.1:9092) could not be established. Broker may not be available. (org.apache.kafka.clients.NetworkClient:780)
+[2022-01-07 23:02:34,788] WARN [Producer clientId=producer-2] Connection to node 0 (localhost/127.0.0.1:9092) could not be established. Broker may not be available. (org.apache.kafka.clients.NetworkClient:780)
+[2022-01-07 23:02:35,010] WARN [Producer clientId=producer-3] Connection to node 0 (localhost/127.0.0.1:9092) could not be established. Broker may not be available. (org.apache.kafka.clients.NetworkClient:780)
+[2022-01-07 23:02:35,517] WARN [Consumer clientId=consumer-connect-cluster-2, groupId=connect-cluster] Connection to node 0 (localhost/127.0.0.1:9092) could not be established. Broker may not be available. (org.apache.kafka.clients.NetworkClient:780)
+[2022-01-07 23:02:35,571] WARN [Producer clientId=producer-1] Connection to node 0 (localhost/127.0.0.1:9092) could not be established. Broker may not be available. (org.apache.kafka.clients.NetworkClient:780)
+[2022-01-07 23:02:35,719] WARN [Consumer clientId=consumer-connect-cluster-1, groupId=connect-cluster] Connection to node 0 (localhost/127.0.0.1:9092) could not be established. Broker may not be available. (org.apache.kafka.clients.NetworkClient:780)
+[2022-01-07 23:02:35,738] WARN [Worker clientId=connect-1, groupId=connect-cluster] Connection to node 0 (localhost/127.0.0.1:9092) could not be established. Broker may not be available. (org.apache.kafka.clients.NetworkClient:780)
+[2022-01-07 23:02:35,804] WARN [Producer clientId=producer-2] Connection to node 0 (localhost/127.0.0.1:9092) could not be established. Broker may not be available. (org.apache.kafka.clients.NetworkClient:780)
+[2022-01-07 23:02:35,820] WARN [Consumer clientId=consumer-connect-cluster-3, groupId=connect-cluster] Connection to node 0 (localhost/127.0.0.1:9092) could not be established. Broker may not be available. (org.apache.kafka.clients.NetworkClient:780)
+[2022-01-07 23:02:35,871] WARN [Producer clientId=producer-3] Connection to node 0 (localhost/127.0.0.1:9092) could not be established. Broker may not be available. (org.apache.kafka.clients.NetworkClient:780)
+[2022-01-07 23:02:36,428] WARN [Consumer clientId=consumer-connect-cluster-2, groupId=connect-cluster] Connection to node 0 (localhost/127.0.0.1:9092) could not be established. Broker may not be available. (org.apache.kafka.clients.NetworkClient:780)
+[2022-01-07 23:02:36,579] WARN [Consumer clientId=consumer-connect-cluster-1, groupId=connect-cluster] Connection to node 0 (localhost/127.0.0.1:9092) could not be established. Broker may not be available. (org.apache.kafka.clients.NetworkClient:780)
+[2022-01-07 23:02:36,670] WARN [Worker clientId=connect-1, groupId=connect-cluster] Connection to node 0 (localhost/127.0.0.1:9092) could not be established. Broker may not be available. (org.apache.kafka.clients.NetworkClient:780)
+[2022-01-07 23:02:36,730] WARN [Consumer clientId=consumer-connect-cluster-3, groupId=connect-cluster] Connection to node 0 (localhost/127.0.0.1:9092) could not be established. Broker may not be available. (org.apache.kafka.clients.NetworkClient:780)
+[2022-01-07 23:02:36,735] WARN [Producer clientId=producer-1] Connection to node 0 (localhost/127.0.0.1:9092) could not be established. Broker may not be available. (org.apache.kafka.clients.NetworkClient:780)
+[2022-01-07 23:02:36,866] WARN [Producer clientId=producer-2] Connection to node 0 (localhost/127.0.0.1:9092) could not be established. Broker may not be available. (org.apache.kafka.clients.NetworkClient:780)
+[2022-01-07 23:02:37,033] WARN [Producer clientId=producer-3] Connection to node 0 (localhost/127.0.0.1:9092) could not be established. Broker may not be available. (org.apache.kafka.clients.NetworkClient:780)
+[2022-01-07 23:02:37,338] WARN [Consumer clientId=consumer-connect-cluster-2, groupId=connect-cluster] Connection to node 0 (localhost/127.0.0.1:9092) could not be established. Broker may not be available. (org.apache.kafka.clients.NetworkClient:780)
+[2022-01-07 23:02:37,576] INFO Kafka Connect stopping (org.apache.kafka.connect.runtime.Connect:67)
+[2022-01-07 23:02:37,577] INFO Stopping REST server (org.apache.kafka.connect.runtime.rest.RestServer:327)
+[2022-01-07 23:02:37,596] WARN [Producer clientId=producer-1] Connection to node 0 (localhost/127.0.0.1:9092) could not be established. Broker may not be available. (org.apache.kafka.clients.NetworkClient:780)
+[2022-01-07 23:02:37,642] WARN [Consumer clientId=consumer-connect-cluster-1, groupId=connect-cluster] Connection to node 0 (localhost/127.0.0.1:9092) could not be established. Broker may not be available. (org.apache.kafka.clients.NetworkClient:780)
+[2022-01-07 23:02:37,730] INFO Stopped http_8083@573284a5{HTTP/1.1, (http/1.1)}{0.0.0.0:8083} (org.eclipse.jetty.server.AbstractConnector:381)
+[2022-01-07 23:02:37,734] INFO node0 Stopped scavenging (org.eclipse.jetty.server.session:149)
+[2022-01-07 23:02:37,747] INFO REST server stopped (org.apache.kafka.connect.runtime.rest.RestServer:344)
+[2022-01-07 23:02:37,747] INFO [Worker clientId=connect-1, groupId=connect-cluster] Herder stopping (org.apache.kafka.connect.runtime.distributed.DistributedHerder:682)
+[2022-01-07 23:02:37,877] WARN [Producer clientId=producer-2] Connection to node 0 (localhost/127.0.0.1:9092) could not be established. Broker may not be available. (org.apache.kafka.clients.NetworkClient:780)
+[2022-01-07 23:02:37,893] WARN [Consumer clientId=consumer-connect-cluster-3, groupId=connect-cluster] Connection to node 0 (localhost/127.0.0.1:9092) could not be established. Broker may not be available. (org.apache.kafka.clients.NetworkClient:780)
+[2022-01-07 23:02:37,914] WARN [Worker clientId=connect-1, groupId=connect-cluster] Connection to node 0 (localhost/127.0.0.1:9092) could not be established. Broker may not be available. (org.apache.kafka.clients.NetworkClient:780)
+[2022-01-07 23:02:38,145] WARN [Consumer clientId=consumer-connect-cluster-2, groupId=connect-cluster] Connection to node 0 (localhost/127.0.0.1:9092) could not be established. Broker may not be available. (org.apache.kafka.clients.NetworkClient:780)
+[2022-01-07 23:02:38,248] WARN [Producer clientId=producer-3] Connection to node 0 (localhost/127.0.0.1:9092) could not be established. Broker may not be available. (org.apache.kafka.clients.NetworkClient:780)
+[2022-01-07 23:02:38,503] WARN [Consumer clientId=consumer-connect-cluster-1, groupId=connect-cluster] Connection to node 0 (localhost/127.0.0.1:9092) could not be established. Broker may not be available. (org.apache.kafka.clients.NetworkClient:780)
+[2022-01-07 23:02:38,610] WARN [Producer clientId=producer-1] Connection to node 0 (localhost/127.0.0.1:9092) could not be established. Broker may not be available. (org.apache.kafka.clients.NetworkClient:780)
+[2022-01-07 23:02:39,043] WARN [Producer clientId=producer-2] Connection to node 0 (localhost/127.0.0.1:9092) could not be established. Broker may not be available. (org.apache.kafka.clients.NetworkClient:780)
+[2022-01-07 23:02:39,049] ERROR Graceful stop of task my-sink-connect-0 failed. (org.apache.kafka.connect.runtime.Worker:867)
+[2022-01-07 23:02:39,050] ERROR Connector ‘my-source-connect’ failed to properly shut down, has become unresponsive, and may be consuming external resources. Correct the configuration for this connector or remove the connector. After fixing the connector, it may be necessary to restart this worker to release any consumed resources. (org.apache.kafka.connect.runtime.Worker:420)
+[2022-01-07 23:02:39,049] ERROR Graceful stop of task my-order-sink-connect-0 failed. (org.apache.kafka.connect.runtime.Worker:867)
+[2022-01-07 23:02:39,058] WARN [Consumer clientId=consumer-connect-cluster-3, groupId=connect-cluster] Connection to node 0 (localhost/127.0.0.1:9092) could not be established. Broker may not be available. (org.apache.kafka.clients.NetworkClient:780)
+[2022-01-07 23:02:39,058] WARN [Producer clientId=producer-3] Connection to node 0 (localhost/127.0.0.1:9092) could not be established. Broker may not be available. (org.apache.kafka.clients.NetworkClient:780)
+[2022-01-07 23:02:39,106] WARN [Consumer clientId=consumer-connect-cluster-2, groupId=connect-cluster] Connection to node 0 (localhost/127.0.0.1:9092) could not be established. Broker may not be available. (org.apache.kafka.clients.NetworkClient:780)
+[2022-01-07 23:02:39,112] ERROR Graceful stop of task my-source-connect-0 failed. (org.apache.kafka.connect.runtime.Worker:867)
+[2022-01-07 23:02:39,113] ERROR Connector ‘my-sink-connect’ failed to properly shut down, has become unresponsive, and may be consuming external resources. Correct the configuration for this connector or remove the connector. After fixing the connector, it may be necessary to restart this worker to release any consumed resources. (org.apache.kafka.connect.runtime.Worker:420)
+[2022-01-07 23:02:39,115] ERROR Connector ‘my-order-sink-connect’ failed to properly shut down, has become unresponsive, and may be consuming external resources. Correct the configuration for this connector or remove the connector. After fixing the connector, it may be necessary to restart this worker to release any consumed resources. (org.apache.kafka.connect.runtime.Worker:420)
+[2022-01-07 23:02:39,160] WARN [Worker clientId=connect-1, groupId=connect-cluster] Connection to node 0 (localhost/127.0.0.1:9092) could not be established. Broker may not be available. (org.apache.kafka.clients.NetworkClient:780)
+[2022-01-07 23:02:39,619] WARN [Producer clientId=producer-1] Connection to node 0 (localhost/127.0.0.1:9092) could not be established. Broker may not be available. (org.apache.kafka.clients.NetworkClient:780)
+[2022-01-07 23:02:39,668] WARN [Consumer clientId=consumer-connect-cluster-1, groupId=connect-cluster] Connection to node 0 (localhost/127.0.0.1:9092) could not be established. Broker may not be available. (org.apache.kafka.clients.NetworkClient:780)
+[2022-01-07 23:02:39,921] WARN [Consumer clientId=consumer-connect-cluster-2, groupId=connect-cluster] Connection to node 0 (localhost/127.0.0.1:9092) could not be established. Broker may not be available. (org.apache.kafka.clients.NetworkClient:780)
+[2022-01-07 23:02:39,971] WARN [Producer clientId=producer-3] Connection to node 0 (localhost/127.0.0.1:9092) could not be established. Broker may not be available. (org.apache.kafka.clients.NetworkClient:780)
+[2022-01-07 23:02:39,991] WARN [Worker clientId=connect-1, groupId=connect-cluster] Connection to node 0 (localhost/127.0.0.1:9092) could not be established. Broker may not be available. (org.apache.kafka.clients.NetworkClient:780)
+[2022-01-07 23:02:40,013] WARN [Producer clientId=producer-2] Connection to node 0 (localhost/127.0.0.1:9092) could not be established. Broker may not be available. (org.apache.kafka.clients.NetworkClient:780)
+[2022-01-07 23:02:40,225] WARN [Consumer clientId=consumer-connect-cluster-3, groupId=connect-cluster] Connection to node 0 (localhost/127.0.0.1:9092) could not be established. Broker may not be available. (org.apache.kafka.clients.NetworkClient:780)
+[2022-01-07 23:02:40,529] WARN [Producer clientId=producer-1] Connection to node 0 (localhost/127.0.0.1:9092) could not be established. Broker may not be available. (org.apache.kafka.clients.NetworkClient:780)
+[2022-01-07 23:02:40,783] WARN [Consumer clientId=consumer-connect-cluster-1, groupId=connect-cluster] Connection to node 0 (localhost/127.0.0.1:9092) could not be established. Broker may not be available. (org.apache.kafka.clients.NetworkClient:780)
+[2022-01-07 23:02:40,875] WARN [Producer clientId=producer-2] Connection to node 0 (localhost/127.0.0.1:9092) could not be established. Broker may not be available. (org.apache.kafka.clients.NetworkClient:780)
+[2022-01-07 23:02:41,037] WARN [Consumer clientId=consumer-connect-cluster-2, groupId=connect-cluster] Connection to node 0 (localhost/127.0.0.1:9092) could not be established. Broker may not be available. (org.apache.kafka.clients.NetworkClient:780)
+[2022-01-07 23:02:41,087] WARN [Consumer clientId=consumer-connect-cluster-3, groupId=connect-cluster] Connection to node 0 (localhost/127.0.0.1:9092) could not be established. Broker may not be available. (org.apache.kafka.clients.NetworkClient:780)
+[2022-01-07 23:02:41,134] WARN [Worker clientId=connect-1, groupId=connect-cluster] Connection to node 0 (localhost/127.0.0.1:9092) could not be established. Broker may not be available. (org.apache.kafka.clients.NetworkClient:780)
+[2022-01-07 23:02:41,139] WARN [Producer clientId=producer-3] Connection to node 0 (localhost/127.0.0.1:9092) could not be established. Broker may not be available. (org.apache.kafka.clients.NetworkClient:780)
+[2022-01-07 23:02:41,593] WARN [Producer clientId=producer-1] Connection to node 0 (localhost/127.0.0.1:9092) could not be established. Broker may not be available. (org.apache.kafka.clients.NetworkClient:780)
+[2022-01-07 23:02:41,593] WARN [Consumer clientId=consumer-connect-cluster-1, groupId=connect-cluster] Connection to node 0 (localhost/127.0.0.1:9092) could not be established. Broker may not be available. (org.apache.kafka.clients.NetworkClient:780)
+[2022-01-07 23:02:41,789] WARN [Producer clientId=producer-2] Connection to node 0 (localhost/127.0.0.1:9092) could not be established. Broker may not be available. (org.apache.kafka.clients.NetworkClient:780)
+[2022-01-07 23:02:42,000] WARN [Consumer clientId=consumer-connect-cluster-2, groupId=connect-cluster] Connection to node 0 (localhost/127.0.0.1:9092) could not be established. Broker may not be available. (org.apache.kafka.clients.NetworkClient:780)
+[2022-01-07 23:02:42,068] WARN [Worker clientId=connect-1, groupId=connect-cluster] Connection to node 0 (localhost/127.0.0.1:9092) could not be established. Broker may not be available. (org.apache.kafka.clients.NetworkClient:780)
+[2022-01-07 23:02:42,104] WARN [Producer clientId=producer-3] Connection to node 0 (localhost/127.0.0.1:9092) could not be established. Broker may not be available. (org.apache.kafka.clients.NetworkClient:780)
+[2022-01-07 23:02:42,202] WARN [Consumer clientId=consumer-connect-cluster-3, groupId=connect-cluster] Connection to node 0 (localhost/127.0.0.1:9092) could not be established. Broker may not be available. (org.apache.kafka.clients.NetworkClient:780)
+[2022-01-07 23:02:42,609] WARN [Consumer clientId=consumer-connect-cluster-1, groupId=connect-cluster] Connection to node 0 (localhost/127.0.0.1:9092) could not be established. Broker may not be available. (org.apache.kafka.clients.NetworkClient:780)
+[2022-01-07 23:02:42,659] WARN [Producer clientId=producer-1] Connection to node 0 (localhost/127.0.0.1:9092) could not be established. Broker may not be available. (org.apache.kafka.clients.NetworkClient:780)
+[2022-01-07 23:02:42,757] INFO [Worker clientId=connect-1, groupId=connect-cluster] Finished stopping tasks in preparation for rebalance (org.apache.kafka.connect.runtime.distributed.DistributedHerder:1767)
+[2022-01-07 23:02:42,759] ERROR [Worker clientId=connect-1, groupId=connect-cluster] Failed to shut down connector my-source-connect (org.apache.kafka.connect.runtime.distributed.DistributedHerder:1358)
+org.apache.kafka.common.errors.InterruptException: java.lang.InterruptedException
+	at org.apache.kafka.clients.producer.KafkaProducer.doSend(KafkaProducer.java:990)
+	at org.apache.kafka.clients.producer.KafkaProducer.send(KafkaProducer.java:886)
+	at org.apache.kafka.connect.util.KafkaBasedLog.send(KafkaBasedLog.java:243)
+	at org.apache.kafka.connect.storage.KafkaStatusBackingStore.send(KafkaStatusBackingStore.java:305)
+	at org.apache.kafka.connect.storage.KafkaStatusBackingStore.sendConnectorStatus(KafkaStatusBackingStore.java:262)
+	at org.apache.kafka.connect.storage.KafkaStatusBackingStore.putSafe(KafkaStatusBackingStore.java:235)
+	at org.apache.kafka.connect.runtime.AbstractHerder.onShutdown(AbstractHerder.java:165)
+	at org.apache.kafka.connect.runtime.WorkerConnector$ConnectorMetricsGroup.onShutdown(WorkerConnector.java:435)
+	at org.apache.kafka.connect.runtime.WorkerConnector.cancel(WorkerConnector.java:284)
+	at org.apache.kafka.connect.runtime.Worker.awaitStopConnector(Worker.java:425)
+	at org.apache.kafka.connect.runtime.Worker.awaitStopConnectors(Worker.java:437)
+	at org.apache.kafka.connect.runtime.Worker.stopAndAwaitConnector(Worker.java:466)
+	at org.apache.kafka.connect.runtime.distributed.DistributedHerder$14.call(DistributedHerder.java:1356)
+	at org.apache.kafka.connect.runtime.distributed.DistributedHerder$14.call(DistributedHerder.java:1352)
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:264)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+	at java.base/java.lang.Thread.run(Thread.java:833)
+Caused by: java.lang.InterruptedException
+	at java.base/java.lang.Object.wait(Native Method)
+	at org.apache.kafka.common.utils.SystemTime.waitObject(SystemTime.java:55)
+	at org.apache.kafka.clients.producer.internals.ProducerMetadata.awaitUpdate(ProducerMetadata.java:119)
+	at org.apache.kafka.clients.producer.KafkaProducer.waitOnMetadata(KafkaProducer.java:1048)
+	at org.apache.kafka.clients.producer.KafkaProducer.doSend(KafkaProducer.java:907)
+	... 17 more
+[2022-01-07 23:02:42,763] INFO [Worker clientId=connect-1, groupId=connect-cluster] Finished flushing status backing store in preparation for rebalance (org.apache.kafka.connect.runtime.distributed.DistributedHerder:1786)
+[2022-01-07 23:02:42,765] INFO [Worker clientId=connect-1, groupId=connect-cluster] Stopping connectors and tasks that are still assigned to this worker. (org.apache.kafka.connect.runtime.distributed.DistributedHerder:656)
+[2022-01-07 23:02:42,767] INFO Metrics scheduler closed (org.apache.kafka.common.metrics.Metrics:668)
+[2022-01-07 23:02:42,767] INFO Closing reporter org.apache.kafka.common.metrics.JmxReporter (org.apache.kafka.common.metrics.Metrics:672)
+[2022-01-07 23:02:42,767] INFO Metrics reporters closed (org.apache.kafka.common.metrics.Metrics:678)
+[2022-01-07 23:02:42,769] INFO App info kafka.connect for connect-1 unregistered (org.apache.kafka.common.utils.AppInfoParser:83)
+[2022-01-07 23:02:42,770] INFO Stopping KafkaBasedLog for topic connect-status (org.apache.kafka.connect.util.KafkaBasedLog:170)
+[2022-01-07 23:02:42,770] INFO [Producer clientId=producer-2] Closing the Kafka producer with timeoutMillis = 9223372036854775807 ms. (org.apache.kafka.clients.producer.KafkaProducer:1205)
+[2022-01-07 23:02:42,775] INFO Metrics scheduler closed (org.apache.kafka.common.metrics.Metrics:668)
+[2022-01-07 23:02:42,775] INFO Closing reporter org.apache.kafka.common.metrics.JmxReporter (org.apache.kafka.common.metrics.Metrics:672)
+[2022-01-07 23:02:42,775] ERROR [Worker clientId=connect-1, groupId=connect-cluster] Failed to shut down connector my-order-sink-connect (org.apache.kafka.connect.runtime.distributed.DistributedHerder:1358)
+java.lang.IllegalStateException: Cannot perform operation after producer has been closed
+	at org.apache.kafka.clients.producer.KafkaProducer.throwIfProducerClosed(KafkaProducer.java:893)
+	at org.apache.kafka.clients.producer.KafkaProducer.doSend(KafkaProducer.java:902)
+	at org.apache.kafka.clients.producer.KafkaProducer.send(KafkaProducer.java:886)
+	at org.apache.kafka.connect.util.KafkaBasedLog.send(KafkaBasedLog.java:243)
+	at org.apache.kafka.connect.storage.KafkaStatusBackingStore.send(KafkaStatusBackingStore.java:305)
+	at org.apache.kafka.connect.storage.KafkaStatusBackingStore.sendConnectorStatus(KafkaStatusBackingStore.java:262)
+	at org.apache.kafka.connect.storage.KafkaStatusBackingStore.putSafe(KafkaStatusBackingStore.java:235)
+	at org.apache.kafka.connect.runtime.AbstractHerder.onShutdown(AbstractHerder.java:165)
+	at org.apache.kafka.connect.runtime.WorkerConnector$ConnectorMetricsGroup.onShutdown(WorkerConnector.java:435)
+	at org.apache.kafka.connect.runtime.WorkerConnector.cancel(WorkerConnector.java:284)
+	at org.apache.kafka.connect.runtime.Worker.awaitStopConnector(Worker.java:425)
+	at org.apache.kafka.connect.runtime.Worker.awaitStopConnectors(Worker.java:437)
+	at org.apache.kafka.connect.runtime.Worker.stopAndAwaitConnector(Worker.java:466)
+	at org.apache.kafka.connect.runtime.distributed.DistributedHerder$14.call(DistributedHerder.java:1356)
+	at org.apache.kafka.connect.runtime.distributed.DistributedHerder$14.call(DistributedHerder.java:1352)
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:264)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+	at java.base/java.lang.Thread.run(Thread.java:833)
+[2022-01-07 23:02:42,775] ERROR WorkerConnector{id=my-sink-connect} Error while shutting down connector (org.apache.kafka.connect.runtime.WorkerConnector:271)
+org.apache.kafka.common.KafkaException: Producer closed while send in progress
+	at org.apache.kafka.clients.producer.KafkaProducer.doSend(KafkaProducer.java:910)
+	at org.apache.kafka.clients.producer.KafkaProducer.send(KafkaProducer.java:886)
+	at org.apache.kafka.connect.util.KafkaBasedLog.send(KafkaBasedLog.java:243)
+	at org.apache.kafka.connect.storage.KafkaStatusBackingStore.send(KafkaStatusBackingStore.java:305)
+	at org.apache.kafka.connect.storage.KafkaStatusBackingStore.sendConnectorStatus(KafkaStatusBackingStore.java:262)
+	at org.apache.kafka.connect.storage.KafkaStatusBackingStore.putSafe(KafkaStatusBackingStore.java:235)
+	at org.apache.kafka.connect.runtime.AbstractHerder.onShutdown(AbstractHerder.java:165)
+	at org.apache.kafka.connect.runtime.WorkerConnector$ConnectorMetricsGroup.onShutdown(WorkerConnector.java:435)
+	at org.apache.kafka.connect.runtime.WorkerConnector.doShutdown(WorkerConnector.java:268)
+	at org.apache.kafka.connect.runtime.WorkerConnector.doRun(WorkerConnector.java:156)
+	at org.apache.kafka.connect.runtime.WorkerConnector.run(WorkerConnector.java:117)
+	at java.base/java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:539)
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:264)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+	at java.base/java.lang.Thread.run(Thread.java:833)
+Caused by: org.apache.kafka.common.KafkaException: Requested metadata update after close
+	at org.apache.kafka.clients.producer.internals.ProducerMetadata.awaitUpdate(ProducerMetadata.java:126)
+	at org.apache.kafka.clients.producer.KafkaProducer.waitOnMetadata(KafkaProducer.java:1048)
+	at org.apache.kafka.clients.producer.KafkaProducer.doSend(KafkaProducer.java:907)
+	... 15 more
+[2022-01-07 23:02:42,775] ERROR WorkerConnector{id=my-order-sink-connect} Error while shutting down connector (org.apache.kafka.connect.runtime.WorkerConnector:271)
+org.apache.kafka.common.KafkaException: Producer closed while send in progress
+	at org.apache.kafka.clients.producer.KafkaProducer.doSend(KafkaProducer.java:910)
+	at org.apache.kafka.clients.producer.KafkaProducer.send(KafkaProducer.java:886)
+	at org.apache.kafka.connect.util.KafkaBasedLog.send(KafkaBasedLog.java:243)
+	at org.apache.kafka.connect.storage.KafkaStatusBackingStore.send(KafkaStatusBackingStore.java:305)
+	at org.apache.kafka.connect.storage.KafkaStatusBackingStore.sendConnectorStatus(KafkaStatusBackingStore.java:262)
+	at org.apache.kafka.connect.storage.KafkaStatusBackingStore.putSafe(KafkaStatusBackingStore.java:235)
+	at org.apache.kafka.connect.runtime.AbstractHerder.onShutdown(AbstractHerder.java:165)
+	at org.apache.kafka.connect.runtime.WorkerConnector$ConnectorMetricsGroup.onShutdown(WorkerConnector.java:435)
+	at org.apache.kafka.connect.runtime.WorkerConnector.doShutdown(WorkerConnector.java:268)
+	at org.apache.kafka.connect.runtime.WorkerConnector.doRun(WorkerConnector.java:156)
+	at org.apache.kafka.connect.runtime.WorkerConnector.run(WorkerConnector.java:117)
+	at java.base/java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:539)
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:264)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+	at java.base/java.lang.Thread.run(Thread.java:833)
+Caused by: org.apache.kafka.common.KafkaException: Requested metadata update after close
+	at org.apache.kafka.clients.producer.internals.ProducerMetadata.awaitUpdate(ProducerMetadata.java:126)
+	at org.apache.kafka.clients.producer.KafkaProducer.waitOnMetadata(KafkaProducer.java:1048)
+	at org.apache.kafka.clients.producer.KafkaProducer.doSend(KafkaProducer.java:907)
+	... 15 more
+[2022-01-07 23:02:42,776] ERROR [Worker clientId=connect-1, groupId=connect-cluster] Failed to shut down connector my-sink-connect (org.apache.kafka.connect.runtime.distributed.DistributedHerder:1358)
+java.lang.IllegalStateException: Cannot perform operation after producer has been closed
+	at org.apache.kafka.clients.producer.KafkaProducer.throwIfProducerClosed(KafkaProducer.java:893)
+	at org.apache.kafka.clients.producer.KafkaProducer.doSend(KafkaProducer.java:902)
+	at org.apache.kafka.clients.producer.KafkaProducer.send(KafkaProducer.java:886)
+	at org.apache.kafka.connect.util.KafkaBasedLog.send(KafkaBasedLog.java:243)
+	at org.apache.kafka.connect.storage.KafkaStatusBackingStore.send(KafkaStatusBackingStore.java:305)
+	at org.apache.kafka.connect.storage.KafkaStatusBackingStore.sendConnectorStatus(KafkaStatusBackingStore.java:262)
+	at org.apache.kafka.connect.storage.KafkaStatusBackingStore.putSafe(KafkaStatusBackingStore.java:235)
+	at org.apache.kafka.connect.runtime.AbstractHerder.onShutdown(AbstractHerder.java:165)
+	at org.apache.kafka.connect.runtime.WorkerConnector$ConnectorMetricsGroup.onShutdown(WorkerConnector.java:435)
+	at org.apache.kafka.connect.runtime.WorkerConnector.cancel(WorkerConnector.java:284)
+	at org.apache.kafka.connect.runtime.Worker.awaitStopConnector(Worker.java:425)
+	at org.apache.kafka.connect.runtime.Worker.awaitStopConnectors(Worker.java:437)
+	at org.apache.kafka.connect.runtime.Worker.stopAndAwaitConnector(Worker.java:466)
+	at org.apache.kafka.connect.runtime.distributed.DistributedHerder$14.call(DistributedHerder.java:1356)
+	at org.apache.kafka.connect.runtime.distributed.DistributedHerder$14.call(DistributedHerder.java:1352)
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:264)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+	at java.base/java.lang.Thread.run(Thread.java:833)
+[2022-01-07 23:02:42,776] INFO Metrics reporters closed (org.apache.kafka.common.metrics.Metrics:678)
+[2022-01-07 23:02:42,779] INFO [Worker clientId=connect-1, groupId=connect-cluster] Herder stopped (org.apache.kafka.connect.runtime.distributed.DistributedHerder:702)
+[2022-01-07 23:02:42,779] INFO Kafka Connect stopped (org.apache.kafka.connect.runtime.Connect:72)
+[2022-01-07 23:02:42,780] INFO App info kafka.producer for producer-2 unregistered (org.apache.kafka.common.utils.AppInfoParser:83)
+[2022-01-07 23:02:42,780] INFO Metrics scheduler closed (org.apache.kafka.common.metrics.Metrics:668)
+[2022-01-07 23:02:42,781] INFO Closing reporter org.apache.kafka.common.metrics.JmxReporter (org.apache.kafka.common.metrics.Metrics:672)
