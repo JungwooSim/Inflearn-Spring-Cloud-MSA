@@ -2,7 +2,9 @@
 
 ## 목차
 ### Part1
-Section 0 : Microservice 와 Spring Cloud 소개 (<a href="/section/section0#readme" target="_blank">링크</a>)
+Section 0 : Microservice 와 Spring Cloud 소개 (<a href="/section/section0#readme" target="_blank">링크</a>)</br>
+Section 1 : Service Discovery (<a href="/section/section1" target="_blank">링크</a>)</br>
+Section 2 : API Gateway Service (<a href="/section/section2" target="_blank">링크</a>)</br>
 
 ### Part2
 
