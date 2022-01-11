@@ -3,7 +3,7 @@
 ### 12 Factors
 : Cloud Native Application 구축함에 있어 고려해야 할 12가지 요인
 
-<img src="1.png" width="500px;">
+<img src="/blob/master/img/1.png" width="500px;">
 
 ### SOA 와 MSA 와의 차이점
 
